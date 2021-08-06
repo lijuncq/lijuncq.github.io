@@ -1,44 +1,31 @@
-# 响应式个人博客界面
+# Flexible-Jekyll is a simple and clean theme for Jekyll
 
-开发简易个人响应式博客，Bootstrap3小型项目实战
+![](https://github.com/artemsheludko/flexible-jekyll/blob/master/assets/img/promo-img.jpg?raw=true)
 
-## 功能简介：
+## Demo
 
-- 登录注册界面
-- 博客主页
-  - 导航栏
-  - 左侧菜单栏
-  - 博客列表
-  - 右侧全局搜索，广告位，推荐位
-  - 页尾
-- 博客详情页
-  - 导航栏
-  - 博客详情
-  - 右侧全局搜索，广告位，推荐位
-  - 页尾
-- 响应式设计
+Check the theme in action [Demo](https://artemsheludko.github.io/flexible-jekyll/)
 
-## 示例
-### 博客首页
-![index](https://github.com/weilanhanf/Photos/blob/master/Blog/index.png?raw=true)
+The main page would look like this:
 
-### 博客详情页
-![blog](https://github.com/weilanhanf/Photos/blob/master/Blog/blog.png?raw=true)
+![Main page preview](https://github.com/artemsheludko/flexible-jekyll/blob/master/assets/img/home-page.jpg?raw=true)
 
-### 登录注册页
-![login](https://github.com/weilanhanf/Photos/blob/master/Blog/login.png?raw=true)
+The post page would look like this:
 
-### 响应式
-页面缩放到超小屏幕后
+![Post page preview](https://github.com/artemsheludko/flexible-jekyll/blob/master/assets/img/post-example.jpg?raw=true)
 
-![narro](https://github.com/weilanhanf/Photos/blob/master/Blog/narro_bolg.png?raw=true)
+## Features
 
-![narro_blog_nav](https://github.com/weilanhanf/Photos/blob/master/Blog/narro_blog_nav.png?raw=true)
+- [Google Fonts](https://fonts.google.com/)
+- [Font Awesome](http://fontawesome.io/)
+- [Disqus](https://disqus.com/)
+- [Analytics](https://analytics.google.com/analytics/web/)
+- Support Emoji
 
+## Installation:
 
-## 在线样例：
+Fork the ``master`` branch and follow the [Jekyll Installation Documentation](https://jekyllrb.com/docs/installation/).
 
-[https://weilanhanf.github.io](https://weilanhanf.github.io)
+## License
 
-## 项目步骤：
-[Bootstrap 实战之响应式个人博客](https://www.cnblogs.com/welan/p/10332038.html)
+GNU General Public License v3.0
