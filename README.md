@@ -1,37 +1,44 @@
-## Welcome to GitHub Pages
+# 响应式个人博客界面
 
-You can use the [editor on GitHub](https://github.com/lijuncq/lijuncq.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+开发简易个人响应式博客，Bootstrap3小型项目实战
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## 功能简介：
 
-### Markdown
+- 登录注册界面
+- 博客主页
+  - 导航栏
+  - 左侧菜单栏
+  - 博客列表
+  - 右侧全局搜索，广告位，推荐位
+  - 页尾
+- 博客详情页
+  - 导航栏
+  - 博客详情
+  - 右侧全局搜索，广告位，推荐位
+  - 页尾
+- 响应式设计
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## 示例
+### 博客首页
+![index](https://github.com/weilanhanf/Photos/blob/master/Blog/index.png?raw=true)
 
-```markdown
-Syntax highlighted code block
+### 博客详情页
+![blog](https://github.com/weilanhanf/Photos/blob/master/Blog/blog.png?raw=true)
 
-# Header 1
-## Header 2
-### Header 3
+### 登录注册页
+![login](https://github.com/weilanhanf/Photos/blob/master/Blog/login.png?raw=true)
 
-- Bulleted
-- List
+### 响应式
+页面缩放到超小屏幕后
 
-1. Numbered
-2. List
+![narro](https://github.com/weilanhanf/Photos/blob/master/Blog/narro_bolg.png?raw=true)
 
-**Bold** and _Italic_ and `Code` text
+![narro_blog_nav](https://github.com/weilanhanf/Photos/blob/master/Blog/narro_blog_nav.png?raw=true)
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+## 在线样例：
 
-### Jekyll Themes
+[https://weilanhanf.github.io](https://weilanhanf.github.io)
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/lijuncq/lijuncq.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+## 项目步骤：
+[Bootstrap 实战之响应式个人博客](https://www.cnblogs.com/welan/p/10332038.html)
