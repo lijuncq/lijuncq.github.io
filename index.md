@@ -4,12 +4,11 @@ layout: default
 
 <div class="row">
   <div class="col-4">
-    <div class="image"><img src="/media/profile.png" alt=""></div></br>
-    <h3>李俊</h3>
+    <div class="image"><img src="/media/profile.png" alt="">李俊</div>
   </div>
   <div class="col-6">
     <div class="designation">
-        你好,我是
+        你好,我是<br>
         <div class="typing-title">
             <p>一个 <strong>高级管道及布置工程师</strong></p>
             <p>一个 <strong>工程软件二次开发者</strong></p>
