@@ -10,10 +10,11 @@ layout: default
   <div class="col-6">
     <div class="designation">
         <div class="typing-title">
-            <p>我是 李俊</p>
-            <p>一个 <strong>高级管道及布置工程师</strong></p>
-            <p>一个 <strong>工程软件二次开发者</strong></p>
-            <p>一个 <strong>PDMS/E3D 资深用户</strong></p>
+            <p>你好, 我是 李俊</p>
+            <p>Hi, I'm Jun LI</p>
+            <p>一个 a <strong>高级管道及布置工程师 senior piping & layout engineer</strong></p>
+            <p>一个 a <strong>工程软件二次开发者 engineering software customization programmer</strong></p>
+            <p>一个 a <strong>PDMS/E3D 资深用户 key user</strong></p>
         </div>
         <span class="typed-title"></span>
     </div>
@@ -22,4 +23,5 @@ layout: default
 
 <br>
 <br>
-Experienced Senior Piping Engineer with a demonstrated history of working in the oil & energy industry. Skilled in Engineering Design, ASME Standards, PDMS/E3D,Tekla, Power Plants, and Engineering. Strong engineering professional with a Bachelor's Degree focused in Mechanical Engineering and Automation from Wuhan University of Hydraulic and Electric Engineering.
+2003年毕业于武汉水利电力大学机械设计及其自动化专业. 5年烟气处理系统布置设计经验(包括电厂脱硫脱硝装置, 铝业烟气处理装置), 8年电厂布置及管道设计经验,5年电厂现场大件吊装方案设计经验, 熟悉ASME, EN标准. 熟练PDMS/E3D, Tekla, Navisworks, AutoCAD等工程软件并能进行二次开发. 
+Experienced Senior Piping & Layout Engineer with a demonstrated history of working in the power & aluminium industry. Skilled in piping & layout design, ASME Standards, PDMS/E3D and Tekla. Strong engineering professional with a Bachelor's Degree focused in Mechanical Engineering and Automation from Wuhan University of Hydraulic and Electric Engineering.
