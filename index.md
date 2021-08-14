@@ -18,9 +18,14 @@ layout: default
               <div>一个 <strong>高级管道及布置工程师</strong></div>
               <div>a <strong>senior piping & layout engineer</strong></div>
             </p>
-            <p>一个 <strong>高级管道及布置工程师 senior piping & layout engineer</strong></p>
-            <p>一个 <strong>工程软件二次开发者 engineering software customization programmer</strong></p>
-            <p>一个 <strong>PDMS/E3D 资深用户 key user</strong></p>
+            <p>
+              <div>一个 <strong>工程软件二次开发者</strong></div>
+              <div>a <strong>engineering software customization programmer</strong></div>
+            </p>
+            <p>
+              <div>一个 <strong>PDMS/E3D 资深用户</strong></div>
+              <div>a <strong>PDMS/E3D key user</strong></div>
+            </p>
         </div>
         <span class="typed-title"></span>
     </div>
@@ -29,5 +34,13 @@ layout: default
 
 <br>
 <br>
-2003年毕业于武汉水利电力大学机械设计及其自动化专业. 5年烟气处理系统布置设计经验(包括电厂脱硫脱硝装置, 铝业烟气处理装置), 8年电厂布置及管道设计经验,5年电厂现场大件吊装方案设计经验, 熟悉ASME, EN标准. 熟练PDMS/E3D, Tekla, Navisworks, AutoCAD等工程软件并能进行二次开发. <br>
-Experienced Senior Piping & Layout Engineer with a demonstrated history of working in the power & aluminium industry. Skilled in piping & layout design, ASME Standards, PDMS/E3D and Tekla. Strong engineering professional with a Bachelor's Degree focused in Mechanical Engineering and Automation from Wuhan University of Hydraulic and Electric Engineering.
+*   5年烟气处理系统布置设计经验(包括电厂脱硫脱硝装置, 铝业烟气处理装置)
+*   5 years of piping & layout design expirence for gas treatment system(power station and aluminium industry)
+*   8年电厂布置及管道设计经验
+*   8 years of piping & layout design expirence for power station
+*   5年电厂现场大件吊装方案设计经验
+*   5 years of heavy equipment lifting expirence for power station
+*   熟悉ASME, EN标准
+*   Familar with ASME code and EN code
+*   熟练PDMS/E3D, Tekla, Navisworks, AutoCAD等工程软件并能进行二次开发
+*   Skilled in PDMS/E3D, Tekla, Navisworks and AutoCAD, including customization programming
