@@ -1,685 +1,225 @@
-﻿<!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="en">
-<head>
-<meta charset="utf-8">
-<title>李俊|高级管道及布置工程师|工程软件二次开发者</title>
-<!-- Stylesheets -->
-<link href="css/bootstrap.css" rel="stylesheet">
-<link href="css/style.css" rel="stylesheet">
-<link href="css/responsive.css" rel="stylesheet">
-
-<!--Favicon-->
-<link rel="shortcut icon" href="images/favicon.png" type="image/x-icon">
-<link rel="icon" href="images/favicon.png" type="image/x-icon">
-<!-- Responsive -->
-<meta http-equiv="X-UA-Compatible" content="IE=edge">
-<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0">
-<!--[if lt IE 9]><script src="js/html5shiv.js"></script><![endif]-->
-<!--[if lt IE 9]><script src="js/respond.js"></script><![endif]-->
-</head>
-
-<body>
-
-<div class="page-wrapper default-version">
- 	
-    <!-- Preloader -->
-    <div class="preloader"></div>
-
-    <div class="page-background">
-        <div class="image-1"><img src="images/icons/shape/icon-1.png" alt=""></div>
-        <div class="image-7"><img src="images/icons/shape/icon-7.png" alt=""></div>
-        <canvas id="canvas"></canvas>
-    </div>
-    
-    <!-- Mobile menu -->
-    <div class="mobile-menu">
-        <div class="container">
-            <!--Nav Outer-->
-            <div class="nav-outer clearfix">
-                <div class="logo"><a href="index.html"><img src="images/logo.png" alt=""></a></div>
-                <!-- Main Menu -->
-                <nav class="main-menu">
-                    <div class="navbar-header">
-                        <!-- Toggle Button -->      
-                        <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
-                            <span class="icon-bar"></span>
-                            <span class="icon-bar"></span>
-                            <span class="icon-bar"></span>
-                        </button>
-                    </div>
-                    
-                    <div class="navbar-collapse collapse scroll-nav clearfix">
-                        <ul class="navigation clearfix">
-                            
-                            <li class="current"><a href="#home">Home</a></li>
-                            <li><a href="#about">关于我/About</a></li>
-                            <li><a href="#resume">简历Resume</a></li>
-                            <li><a href="#services">服务/Services</a></li>
-                            <li><a href="#work">作品/Works</a></li>
-                            <li><a href="#blog">博客/Blog</a></li>
-                            <li><a href="#contact">联系我/Contact</a></li>
-
-                         </ul>
-                    </div>
-                </nav>
-                <!-- Main Menu End-->                        
+    <head>
+        <meta charset="utf-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+        <meta name="description" content="" />
+        <meta name="author" content="" />
+        <title>Resume - Start Bootstrap Theme</title>
+        <link rel="icon" type="image/x-icon" href="assets/img/favicon.ico" />
+        <!-- Font Awesome icons (free version)-->
+        <script src="https://use.fontawesome.com/releases/v5.15.3/js/all.js" crossorigin="anonymous"></script>
+        <!-- Google fonts-->
+        <link href="https://fonts.googleapis.com/css?family=Saira+Extra+Condensed:500,700" rel="stylesheet" type="text/css" />
+        <link href="https://fonts.googleapis.com/css?family=Muli:400,400i,800,800i" rel="stylesheet" type="text/css" />
+        <!-- Core theme CSS (includes Bootstrap)-->
+        <link href="css/styles.css" rel="stylesheet" />
+    </head>
+    <body id="page-top">
+        <!-- Navigation-->
+        <nav class="navbar navbar-expand-lg navbar-dark bg-primary fixed-top" id="sideNav">
+            <a class="navbar-brand js-scroll-trigger" href="#page-top">
+                <span class="d-block d-lg-none">Clarence Taylor</span>
+                <span class="d-none d-lg-block"><img class="img-fluid img-profile rounded-circle mx-auto mb-2" src="assets/img/profile.jpg" alt="..." /></span>
+            </a>
+            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation"><span class="navbar-toggler-icon"></span></button>
+            <div class="collapse navbar-collapse" id="navbarResponsive">
+                <ul class="navbar-nav">
+                    <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#about">About</a></li>
+                    <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#experience">Experience</a></li>
+                    <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#education">Education</a></li>
+                    <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#skills">Skills</a></li>
+                    <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#interests">Interests</a></li>
+                    <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#awards">Awards</a></li>
+                </ul>
             </div>
-            <!--Nav Outer End-->            
-        </div>
-    </div>
- 	
-    <div class="card-outer">
-        <div class="scroll-box">
-            <div class="container" data-animation-in="fadeInLeft" data-animation-out="fadeOutLeft">
-                <div class="card-wrapper">
-                    <div class="author-info" style="background-image:url(images/background/3.jpg)">
-                        <div class="image"><img src="images/resource/user.png" alt=""></div>
-                        <div class="author">
-                            <h3>李俊</h3>
-                            <div class="designation">
-                                你好,我是
-                                <div class="typing-title">
-                                    <p>一个<strong>高级管道及布置工程师</strong></p>
-                                    <p>一个<strong>工程软件二次开发者</strong></p>
-                                    <p>一个<strong>PDMS/E3D 资深用户</strong></p>
-                                </div>
-                                <span class="typed-title"></span>
-                            </div>
-                        </div>
-                        <div class="link-btn">
-                            <a href="http://www.17sucai.com/" class="theme-btn btn-style-one">下载简历 Download CV</a>
-                        </div>
-                        <ul class="social-icon-two">
-                            <li><a href="#"><span class="fa fa-facebook"></span></a></li>
-                            <li><a href="#"><span class="fa fa-twitter"></span></a></li>
-                            <li><a href="#"><span class="fa fa-google-plus"></span></a></li>
-                            <li><a href="#"><span class="fa fa-pinterest"></span></a></li>
-                        </ul>
+        </nav>
+        <!-- Page Content-->
+        <div class="container-fluid p-0">
+            <!-- About-->
+            <section class="resume-section" id="about">
+                <div class="resume-section-content">
+                    <h1 class="mb-0">
+                        Clarence
+                        <span class="text-primary">Taylor</span>
+                    </h1>
+                    <div class="subheading mb-5">
+                        3542 Berry Street · Cheyenne Wells, CO 80810 · (317) 585-8468 ·
+                        <a href="mailto:name@email.com">name@email.com</a>
                     </div>
-                    <div class="card-inner-box">
-                        <header class="header wow fadeInLeft" data-wow-duration="1.5s">
-                            <ul class="main-menu">
-                                <li class="active home"><a class="logo" href="#home"><img src="images/logo.png" alt=""></a></li>
-                                <li><a href="#about"><i class="flaticon-social"></i>关于我/About</a></li>
-                                <li><a href="#resume"><i class="flaticon-curriculum"></i>简历/Resume</a></li>
-                                <li><a href="#services"><i class="flaticon-layers-1"></i>服务项/Services</a></li>
-                                <li><a href="#work"><i class="flaticon-tools"></i>作品/Works</a></li>
-                                <li><a href="#blog"><i class="flaticon-blog"></i>博客/Blog</a></li>
-                                <li><a href="#contact"><i class="flaticon-send-mail"></i>联系我/Contact</a></li>
-                            </ul>
-                        </header>
-
-                        <!-- card item -->
-                        <div class="card-home card-item active" id="home" style="background-image:url(images/background/1.jpg)">
-
-                            <div class="card-inner wow fadeInUp" data-wow-duration="2s">
-                                <div class="image"><img src="images/resource/user.png" alt=""></div>
-                                <div class="author">
-                                    <h3>李俊</h3>
-                                    <div class="designation">
-                                        你好,我是
-                                        <div class="typing-title">
-                                            <p>一个 <strong>高级管道及布置工程师</strong></p>
-                                            <p>一个 <strong>工程软件二次开发者</strong></p>
-                                            <p>一个 <strong>PDMS/E3D 资深用户</strong></p>
-                                        </div>
-                                        <span class="typed-title"></span>
-                                    </div>
-                                </div>
-                                <div class="text">相片有美颜, 简历无注水.</div>
-								<div class="text">网站装修中...</div>
-                                <div class="link-btn">
-                                    <a href="#" class="theme-btn btn-style-one">简历下载 / Download CV</a>
-                                    <a href="#" class="theme-btn btn-style-two">联系我 / Hire Me</a>
-                                </div>
-                                <ul class="social-icon-two">
-                                    <li><a href="#"><span class="fa fa-facebook"></span></a></li>
-                                    <li><a href="#"><span class="fa fa-twitter"></span></a></li>
-                                    <li><a href="#"><span class="fa fa-google-plus"></span></a></li>
-                                    <li><a href="#"><span class="fa fa-pinterest"></span></a></li>
-                                    <li><a href="#"><span class="fa fa-dribbble"></span></a></li>
-                                </ul>
-                            </div>
-                            
-                        </div>
-                        <!-- end item -->
-
-                        <!-- card item -->
-                        <div class="card-about card-item" id="about" style="background-image:url(images/background/2.jpg)">
-                            <div class="card-inner">
-                                <h4 class="title">关于我/About Me</h4>
-                                <div class="text">Experienced Senior Piping Engineer with a demonstrated history of working in the oil & energy industry. Skilled in Engineering Design, ASME Standards, PDMS/E3D,Tekla, Power Plants, and Engineering. Strong engineering professional with a Bachelor's Degree focused in Mechanical Engineering and Automation from Wuhan University of Hydraulic and Electric Engineering.</div>
-                                <div class="info-list">
-                                    <div class="row">
-                                        <div class="col-md-6">
-                                            <ul class="list-style-one">
-                                                <li><strong>姓名/Name:</strong>  李俊/Jun LI</li>
-                                                <li><strong>电话/Phone:</strong>  18600363243</li>
-                                                <li><strong>地址/Address:</strong>  北京丰台区</li>
-                                            </ul>
-                                        </div>
-                                        <div class="col-md-6">
-                                            <ul class="list-style-one">
-                                                <li><strong>Email:</strong>  lijuncq@live.com</li>
-                                            </ul>
-                                        </div>
-                                    </div>
-                                </div>                                    
-                                <h3 class="title">技能/Skills</h3>
-                                <div class="row">
-                                    <h5>工程设计/Engineering</h5>
-                                </div>
-                                <div class="row">
-
-                                    <h5>工艺配管/Piping</h5>
-                                    <div class="progress">
-                                        <div class="progress-bar" role="progressbar" style="width: 90%; background-color: rgb(255, 136, 0);" aria-valuenow="90" aria-valuemin="0" aria-valuemax="100">90%</div>
-                                    </div>
-
-                                    <h5>烟气处理装置布置(电厂,脱硫脱硝,铝业) / Power Station, Gas Treatment Facilities Layout</h5>
-                                    <div class="progress">
-                                        <div class="progress-bar" role="progressbar" style="width: 90%; background-color: rgb(255, 136, 0);" aria-valuenow="90" aria-valuemin="0" aria-valuemax="100">90%</div>
-                                    </div>
-                                    <!-- About Block -->
-                                    <div class="skill-block col-md-3 col-sm-4 col-xs-6">
-                                        <div class="inner-box">
-                                            <div class="graph-outer">
-                                                <input type="text" class="dial" data-fgColor="#FF8C19" data-bgColor="#f5f5f5" data-width="90" data-height="90" data-linecap="normal"  value="90">
-                                                <div class="inner-text count-box"><span class="count-text" data-stop="90" data-speed="2000"></span>%</div>
-                                            </div>
-                                            <h3>工艺配管/Piping</h3>
-                                        </div>
-                                    </div>
-
-                                    <!-- About Block -->
-                                    <div class="skill-block col-md-3 col-sm-4 col-xs-6">
-                                        <div class="inner-box">
-                                            <div class="graph-outer">
-                                                <input type="text" class="dial" data-fgColor="#FF8C19" data-bgColor="#f5f5f5" data-width="90" data-height="90" data-linecap="normal"  value="90">
-                                                <div class="inner-text count-box"><span class="count-text" data-stop="90" data-speed="2000"></span>%</div>
-                                            </div>
-                                            <h3>烟气处理装置布置(电厂,脱硫脱硝,铝业) / Power Station, Gas Treatment Facilities Layout</h3>
-                                        </div>
-                                    </div>
-
-                                </div>
-
-
-                                <div class="row">
-                                    <div class="skill-block col-md-3 col-sm-4 col-xs-6">
-                                        <h3>工程软件/Engineer Software</h3>
-                                    </div>
-                                </div>
-                                <div class="row">
-                                    <!-- About Block -->
-                                    <div class="skill-block col-md-3 col-sm-4 col-xs-6">
-                                        <div class="inner-box">
-                                            <div class="graph-outer">
-                                                <input type="text" class="dial" data-fgColor="#FF8C19" data-bgColor="#f5f5f5" data-width="90" data-height="90" data-linecap="normal"  value="90">
-                                                <div class="inner-text count-box"><span class="count-text" data-stop="90" data-speed="2000"></span>%</div>
-                                            </div>
-                                            <h3>PDMS/E3D 及其二次开发 </h3>
-                                        </div>
-                                    </div>
-
-
-                                    <!-- About Block -->
-                                    <div class="skill-block col-md-3 col-sm-4 col-xs-6">
-                                        <div class="inner-box">
-                                            <div class="graph-outer">
-                                                <input type="text" class="dial" data-fgColor="#FFD919" data-bgColor="#f5f5f5" data-width="90" data-height="90" data-linecap="normal"  value="75">
-                                                <div class="inner-text count-box"><span class="count-text" data-stop="75" data-speed="2000"></span>%</div>
-                                            </div>
-                                            <h3>Tekla 及其二次开发</h3>
-                                        </div>
-                                    </div>
-                                    <!-- About Block -->
-                                    <div class="skill-block col-md-3 col-sm-4 col-xs-6">
-                                        <div class="inner-box">
-                                            <div class="graph-outer">
-                                                <input type="text" class="dial" data-fgColor="#D9FF19" data-bgColor="#f5f5f5" data-width="90" data-height="90" data-linecap="normal"  value="70">
-                                                <div class="inner-text count-box"><span class="count-text" data-stop="70" data-speed="2000"></span>%</div>
-                                            </div>
-                                            <h3>Navisworks 及其二次开发</h3>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="row">
-                                    <h5>编程语言/Programing Language</h5>
-                                </div>
-                                <div class="row">
-                                    <!-- About Block -->
-                                    <div class="skill-block col-md-3 col-sm-4 col-xs-6">
-                                        <div class="inner-box">
-                                            <div class="graph-outer">
-                                                <input type="text" class="dial" data-fgColor="#FF8C19" data-bgColor="#f5f5f5" data-width="90" data-height="90" data-linecap="normal"  value="90">
-                                                <div class="inner-text count-box"><span class="count-text" data-stop="90" data-speed="2000"></span>%</div>
-                                            </div>
-                                            <h3>PML PML.net </h3>
-                                        </div>
-                                    </div>
-
-                                    <!-- About Block -->
-                                    <div class="skill-block col-md-3 col-sm-4 col-xs-6">
-                                        <div class="inner-box">
-                                            <div class="graph-outer">
-                                                <input type="text" class="dial" data-fgColor="#19FFD9" data-bgColor="#f5f5f5" data-width="90" data-height="90" data-linecap="normal"  value="60">
-                                                <div class="inner-text count-box"><span class="count-text" data-stop="60" data-speed="2000"></span>%</div>
-                                            </div>
-                                            <h3>C#</h3>
-                                        </div>
-                                    </div>
-                                    <!-- About Block -->
-                                    <div class="skill-block col-md-3 col-sm-4 col-xs-6">
-                                        <div class="inner-box">
-                                            <div class="graph-outer">
-                                                <input type="text" class="dial" data-fgColor="#19D9FF" data-bgColor="#f5f5f5" data-width="90" data-height="90" data-linecap="normal"  value="50">
-                                                <div class="inner-text count-box"><span class="count-text" data-stop="50" data-speed="2000"></span>%</div>
-                                            </div>
-                                            <h3>Python</h3>
-                                        </div>
-                                    </div>
-                                </div>   
-                            </div>
-                        </div>
-                        <!-- end item -->
-
-                        <!-- card item -->
-                        <div class="card-resume card-item" id="resume" style="background-image:url(images/background/2.jpg)">
-                            <div class="card-inner">
-                                <h4 class="title">Resume</h4>
-                                <div class="row clearfix">
-                                    <!--Column-->
-                                    <div class="timeline-column col-md-6 col-sm-12 col-xs-12">
-                                        <div class="inner">
-                                            <div class="col-header"><div class="icon-box"><div class="icon-inner"><div class="icon"><span class="flaticon-book"></span></div></div></div> <h2>Employment</h2></div>
-                                            
-                                            <!--Timeline Block-->
-                                            <div class="timeline-block">
-                                                <div class="inner-box">
-                                                    <h4>Web Design</h4>
-                                                    <div class="date"><span>1998-2000</span> / University of stuties</div>
-                                                    <div class="text">Exceptur sint occaecat cupidatat non proident sunt culpa. </div>
-                                                </div>
-                                            </div>
-
-                                            <!--Timeline Block-->
-                                            <div class="timeline-block">
-                                                <div class="inner-box">
-                                                    <h4>Web Development</h4>
-                                                    <div class="date"><span>1998-2000</span> / University of stuties</div>
-                                                    <div class="text">Exceptur sint occaecat cupidatat non proident sunt culpa. </div>
-                                                </div>
-                                            </div>
-
-                                            <!--Timeline Block-->
-                                            <div class="timeline-block">
-                                                <div class="inner-box">
-                                                    <h4>Specialization Course</h4>
-                                                    <div class="date"><span>1998-2000</span> / University of stuties</div>
-                                                    <div class="text">Exceptur sint occaecat cupidatat non proident sunt culpa. </div>
-                                                </div>
-                                            </div>
-                                            
-                                        </div>
-                                    </div>
-                                    
-                                    <!--Column-->
-                                    <div class="timeline-column col-md-6 col-sm-12 col-xs-12">
-                                        <div class="inner">
-                                            <div class="col-header"><div class="icon-box"><div class="icon-inner"><div class="icon"><span class="flaticon-case"></span></div></div></div> <h2>Experience</h2></div>
-                                            
-                                            <!--Timeline Block-->
-                                            <div class="timeline-block">
-                                                <div class="inner-box">
-                                                    <h4>Lead UI/UX Designer</h4>
-                                                    <div class="date"><span>2015-Present</span>  / Google inc.</div>
-                                                    <div class="text">Exceptur sint occaecat cupidatat non proident sunt culpa. </div>
-                                                </div>
-                                            </div>
-
-                                            <div class="timeline-block">
-                                                <div class="inner-box">
-                                                    <h4>Senior UI/UX Designer</h4>
-                                                    <div class="date"><span>2012-2014 </span> / Facebook inc.</div>
-                                                    <div class="text">Exceptur sint occaecat cupidatat non proident sunt culpa. </div>
-                                                </div>
-                                            </div>
-
-                                            <div class="timeline-block">
-                                                <div class="inner-box">
-                                                    <h4>Junior UI/UX Designer</h4>
-                                                    <div class="date"><span>2006-2011 </span>  / airbnb inc.</div>
-                                                    <div class="text">Exceptur sint occaecat cupidatat non proident sunt culpa. </div>
-                                                </div>
-                                            </div>
-
-                                        </div>
-                                    </div>
-                                    
-                                </div>
-                            </div>
-                        </div>
-                        <!-- end item -->
-                        <!-- card item -->
-                        <div class="card-services card-item" id="services" style="background-image:url(images/background/2.jpg)">
-                            <div class="card-inner">
-                                <h4 class="title">Services</h4>
-                                <div class="row">
-                                    <div class="services-block col-md-6">
-                                        <div class="inner-box">
-                                            <div class="icon-box"><span class="icon flaticon-pen-tool"></span></div>
-                                            <h4><a href="blog-single.html">UI/UX Design</a></h4>
-                                            <div class="text">Lorem ipsum dolor amet constur adipisicing elit </div>
-                                        </div> 
-                                    </div>
-                                    <div class="services-block col-md-6">
-                                        <div class="inner-box">
-                                            <div class="icon-box"><span class="icon flaticon-folder"></span></div>
-                                            <h4><a href="blog-single.html">Web Design</a></h4>
-                                            <div class="text">Lorem ipsum dolor amet constur adipisicing elit </div>
-                                        </div> 
-                                    </div>
-                                    <div class="services-block col-md-6">
-                                        <div class="inner-box">
-                                            <div class="icon-box"><span class="icon flaticon-computer"></span></div>
-                                            <h4><a href="blog-single.html">Branding</a></h4>
-                                            <div class="text">Lorem ipsum dolor amet constur adipisicing elit </div>
-                                        </div> 
-                                    </div>
-                                    <div class="services-block col-md-6">
-                                        <div class="inner-box">
-                                            <div class="icon-box"><span class="icon flaticon-layers-1"></span></div>
-                                            <h4><a href="blog-single.html">Logo Design</a></h4>
-                                            <div class="text">Lorem ipsum dolor amet constur adipisicing elit </div>
-                                        </div> 
-                                    </div>
-                                    <div class="services-block col-md-6">
-                                        <div class="inner-box">
-                                            <div class="icon-box"><span class="icon flaticon-web-design"></span></div>
-                                            <h4><a href="blog-single.html">Apps Design</a></h4>
-                                            <div class="text">Lorem ipsum dolor amet constur adipisicing elit </div>
-                                        </div> 
-                                    </div>
-                                    <div class="services-block col-md-6">
-                                        <div class="inner-box">
-                                            <div class="icon-box"><span class="icon flaticon-photo-camera"></span></div>
-                                            <h4><a href="blog-single.html">Photography</a></h4>
-                                            <div class="text">Lorem ipsum dolor amet constur adipisicing elit </div>
-                                        </div> 
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                        <!-- end item -->
-                        <!-- card item -->
-                        <div class="card-projects card-item" id="work" style="background-image:url(images/background/2.jpg)">
-                            <div class="card-inner">
-                                <h4 class="title">Works</h4>
-                                <div class="row">
-                                    <div class="projects-block col-md-6">
-                                        <div class="inner-box">
-                                            <figure class="image">
-                                                <img src="images/gallery/1.jpg" alt="image">
-                                                <div class="overlay">
-                                                    <a class="lightbox-image option-btn" title="Image Caption Here" data-fancybox-group="example-gallery" href="images/gallery/1.jpg">
-                                                        <i class="fa fa-search"></i>
-                                                    </a>                                
-                                                </div>
-                                            </figure>
-                                            <div class="caption-title">
-                                                <h3><a href="#">Portfolio Item Title</a></h3>
-                                                <span>Branding, Print</span>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <div class="projects-block col-md-6">
-                                        <div class="inner-box">
-                                            <figure class="image">
-                                                <img src="images/gallery/2.jpg" alt="image">
-                                                <div class="overlay">
-                                                    <a class="lightbox-image option-btn" title="Image Caption Here" data-fancybox-group="example-gallery" href="images/gallery/2.jpg">
-                                                        <i class="fa fa-search"></i>
-                                                    </a>                                
-                                                </div>
-                                            </figure>
-                                            <div class="caption-title">
-                                                <h3><a href="#">Portfolio Item Title</a></h3>
-                                                <span>Branding, Print</span>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <div class="projects-block col-md-6">
-                                        <div class="inner-box">
-                                            <figure class="image">
-                                                <img src="images/gallery/3.jpg" alt="image">
-                                                <div class="overlay">
-                                                    <a class="lightbox-image option-btn" title="Image Caption Here" data-fancybox-group="example-gallery" href="images/gallery/3.jpg">
-                                                        <i class="fa fa-search"></i>
-                                                    </a>                                
-                                                </div>
-                                            </figure>
-                                            <div class="caption-title">
-                                                <h3><a href="#">Portfolio Item Title</a></h3>
-                                                <span>Branding, Print</span>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <div class="projects-block col-md-6">
-                                        <div class="inner-box">
-                                            <figure class="image">
-                                                <img src="images/gallery/4.jpg" alt="image">
-                                                <div class="overlay">
-                                                    <a class="lightbox-image option-btn" title="Image Caption Here" data-fancybox-group="example-gallery" href="images/gallery/4.jpg">
-                                                        <i class="fa fa-search"></i>
-                                                    </a>                                
-                                                </div>
-                                            </figure>
-                                            <div class="caption-title">
-                                                <h3><a href="#">Portfolio Item Title</a></h3>
-                                                <span>Branding, Print</span>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <div class="projects-block col-sm-6">
-                                        <div class="inner-box">
-                                            <figure class="image">
-                                                <img src="images/gallery/5.jpg" alt="image">
-                                                <div class="overlay">
-                                                    <a class="lightbox-image option-btn" title="Image Caption Here" data-fancybox-group="example-gallery" href="images/gallery/5.jpg">
-                                                        <i class="fa fa-search"></i>
-                                                    </a>                                
-                                                </div>
-                                            </figure>
-                                            <div class="caption-title">
-                                                <h3><a href="#">Portfolio Item Title</a></h3>
-                                                <span>Branding, Print</span>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <div class="projects-block col-sm-6">
-                                        <div class="inner-box">
-                                            <figure class="image">
-                                                <img src="images/gallery/6.jpg" alt="image">
-                                                <div class="overlay">
-                                                    <a class="lightbox-image option-btn" title="Image Caption Here" data-fancybox-group="example-gallery" href="images/gallery/6.jpg">
-                                                        <i class="fa fa-search"></i>
-                                                    </a>                                
-                                                </div>
-                                            </figure>
-                                            <div class="caption-title">
-                                                <h3><a href="#">Portfolio Item Title</a></h3>
-                                                <span>Branding, Print</span>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                        <!-- end item -->
-                        <!-- card item -->
-                        <div class="card-blog card-item" id="blog" style="background-image:url(images/background/2.jpg)">
-                            <div class="card-inner">
-                                <h4 class="title">Blog</h4>
-                                <div class="news-block">
-                                    <div class="inner-box">
-                                        <div class="image">
-                                            <img src="images/resource/blog-1.jpg" alt="">
-                                            <div class="overlay">
-                                                <a class="link-btn" href="blog-single.html">
-                                                    <i class="fa fa-link"></i>
-                                                </a>                                
-                                            </div>
-                                        </div>
-                                        <div class="date"><strong>02</strong> <br>Sep</div>
-                                        <div class="lower-content">
-                                            <h4><a href="blog-single.html">Let’s Talk About Design</a></h4>
-                                            <div class="post-meta">by admin  /  <span>Design</span></div>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="news-block">
-                                    <div class="inner-box">
-                                        <div class="image">
-                                            <img src="images/resource/blog-2.jpg" alt="">
-                                            <div class="overlay">
-                                                <a class="link-btn" href="blog-single.html">
-                                                    <i class="fa fa-link"></i>
-                                                </a>                                
-                                            </div>
-                                        </div>
-                                        <div class="date"><strong>04</strong> <br>Sep</div>
-                                        <div class="lower-content">
-                                            <h4><a href="blog-single.html">Let’s Talk About Design</a></h4>
-                                            <div class="post-meta">by admin  /  <span>Design</span></div>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="news-block">
-                                    <div class="inner-box">
-                                        <div class="image">
-                                            <img src="images/resource/blog-3.jpg" alt="">
-                                            <div class="overlay">
-                                                <a class="link-btn" href="blog-single.html">
-                                                    <i class="fa fa-link"></i>
-                                                </a>                                
-                                            </div>
-                                        </div>
-                                        <div class="date"><strong>06</strong> <br>Sep</div>
-                                        <div class="lower-content">
-                                            <h4><a href="blog-single.html">Let’s Talk About Design</a></h4>
-                                            <div class="post-meta">by admin  /  <span>Design</span></div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                        <!-- end item -->
-                        <!-- card item -->
-                        <div class="card-contact card-item" id="contact" style="background-image:url(images/background/2.jpg)">
-                            <div class="card-inner">
-                                <h3 class="title">Contact</h3>
-                                <h4>Keep In Touch</h4>
-                                <div class="row clearfix">
-                                    <div class="col-md-6">
-                                        <ul class="list-style-two">
-                                            <li><span class="icon flaticon-signs"></span>PO Box 16122 Collins Street <br> West Victoria 8007 Canada </li>
-                                            <li><span class="icon flaticon-smartphone"></span>(+48) 564-334-21-22-34 <br>(+48) 564-334-21-25</li>
-                                            <li><span class="icon flaticon-note-1"></span>info@cretox.com <br>info@example.com</li>
-                                        </ul>
-                                    </div>
-                                    <div class="col-md-6">
-                                        <div class="map-section">
-                                            <div class="home-google-map">
-                                                <div 
-                                                    class="google-map" 
-                                                    id="contact-google-map" 
-                                                    data-map-lat="40.700843" 
-                                                    data-map-lng="-74.004012" 
-                                                    data-icon-path="images/icons/map-marker.png"
-                                                    data-map-title="Chester"
-                                                    data-map-zoom="11" >
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                                <h4>How Can I Help?</h4>
-                                <!-- Contact Form -->
-                                <div class="contact-form">
-                                    <!--Comment Form-->
-                                    <form method="post" action="sendemail.php" id="contact-form">
-                                        <div class="row clearfix">
-                                            
-                                            <div class="col-md-6 form-group">
-                                                <input type="text" name="username" placeholder="Name" required>
-                                            </div>
-                                            
-                                            <div class="col-md-6 form-group">
-                                                <input type="email" name="email" placeholder="Email" required>
-                                            </div>
-                                            
-                                            <div class="col-md-6 form-group">
-                                                <input type="text" name="subject" placeholder="Subject" required>
-                                            </div>
-
-                                            <div class="col-md-6 form-group">
-                                                <input type="text" name="phone" placeholder="Phone" required>
-                                            </div>
-
-                                            <div class="col-lg-12 col-md-12 form-group">
-                                                <textarea name="message" placeholder="Message"></textarea>
-                                            </div>
-                                            
-                                            <div class="col-lg-12 col-md-12 form-group">
-                                                <button class="theme-btn btn-style-two" type="submit" name="submit-form">Submit Now </button>
-                                            </div>
-                                            
-                                        </div>
-                                    </form>
-                                        
-                                </div>
-                                <!--End Contact Form -->
-                                        
-                            </div>
-                        </div>
-                        <!-- end item -->
-
+                    <p class="lead mb-5">I am experienced in leveraging agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition.</p>
+                    <div class="social-icons">
+                        <a class="social-icon" href="#!"><i class="fab fa-linkedin-in"></i></a>
+                        <a class="social-icon" href="#!"><i class="fab fa-github"></i></a>
+                        <a class="social-icon" href="#!"><i class="fab fa-twitter"></i></a>
+                        <a class="social-icon" href="#!"><i class="fab fa-facebook-f"></i></a>
                     </div>
                 </div>
-                    
-            </div>
+            </section>
+            <hr class="m-0" />
+            <!-- Experience-->
+            <section class="resume-section" id="experience">
+                <div class="resume-section-content">
+                    <h2 class="mb-5">Experience</h2>
+                    <div class="d-flex flex-column flex-md-row justify-content-between mb-5">
+                        <div class="flex-grow-1">
+                            <h3 class="mb-0">Senior Web Developer</h3>
+                            <div class="subheading mb-3">Intelitec Solutions</div>
+                            <p>Bring to the table win-win survival strategies to ensure proactive domination. At the end of the day, going forward, a new normal that has evolved from generation X is on the runway heading towards a streamlined cloud solution. User generated content in real-time will have multiple touchpoints for offshoring.</p>
+                        </div>
+                        <div class="flex-shrink-0"><span class="text-primary">March 2013 - Present</span></div>
+                    </div>
+                    <div class="d-flex flex-column flex-md-row justify-content-between mb-5">
+                        <div class="flex-grow-1">
+                            <h3 class="mb-0">Web Developer</h3>
+                            <div class="subheading mb-3">Intelitec Solutions</div>
+                            <p>Capitalize on low hanging fruit to identify a ballpark value added activity to beta test. Override the digital divide with additional clickthroughs from DevOps. Nanotechnology immersion along the information highway will close the loop on focusing solely on the bottom line.</p>
+                        </div>
+                        <div class="flex-shrink-0"><span class="text-primary">December 2011 - March 2013</span></div>
+                    </div>
+                    <div class="d-flex flex-column flex-md-row justify-content-between mb-5">
+                        <div class="flex-grow-1">
+                            <h3 class="mb-0">Junior Web Designer</h3>
+                            <div class="subheading mb-3">Shout! Media Productions</div>
+                            <p>Podcasting operational change management inside of workflows to establish a framework. Taking seamless key performance indicators offline to maximise the long tail. Keeping your eye on the ball while performing a deep dive on the start-up mentality to derive convergence on cross-platform integration.</p>
+                        </div>
+                        <div class="flex-shrink-0"><span class="text-primary">July 2010 - December 2011</span></div>
+                    </div>
+                    <div class="d-flex flex-column flex-md-row justify-content-between">
+                        <div class="flex-grow-1">
+                            <h3 class="mb-0">Web Design Intern</h3>
+                            <div class="subheading mb-3">Shout! Media Productions</div>
+                            <p>Collaboratively administrate empowered markets via plug-and-play networks. Dynamically procrastinate B2C users after installed base benefits. Dramatically visualize customer directed convergence without revolutionary ROI.</p>
+                        </div>
+                        <div class="flex-shrink-0"><span class="text-primary">September 2008 - June 2010</span></div>
+                    </div>
+                </div>
+            </section>
+            <hr class="m-0" />
+            <!-- Education-->
+            <section class="resume-section" id="education">
+                <div class="resume-section-content">
+                    <h2 class="mb-5">Education</h2>
+                    <div class="d-flex flex-column flex-md-row justify-content-between mb-5">
+                        <div class="flex-grow-1">
+                            <h3 class="mb-0">University of Colorado Boulder</h3>
+                            <div class="subheading mb-3">Bachelor of Science</div>
+                            <div>Computer Science - Web Development Track</div>
+                            <p>GPA: 3.23</p>
+                        </div>
+                        <div class="flex-shrink-0"><span class="text-primary">August 2006 - May 2010</span></div>
+                    </div>
+                    <div class="d-flex flex-column flex-md-row justify-content-between">
+                        <div class="flex-grow-1">
+                            <h3 class="mb-0">James Buchanan High School</h3>
+                            <div class="subheading mb-3">Technology Magnet Program</div>
+                            <p>GPA: 3.56</p>
+                        </div>
+                        <div class="flex-shrink-0"><span class="text-primary">August 2002 - May 2006</span></div>
+                    </div>
+                </div>
+            </section>
+            <hr class="m-0" />
+            <!-- Skills-->
+            <section class="resume-section" id="skills">
+                <div class="resume-section-content">
+                    <h2 class="mb-5">Skills</h2>
+                    <div class="subheading mb-3">Programming Languages & Tools</div>
+                    <ul class="list-inline dev-icons">
+                        <li class="list-inline-item"><i class="fab fa-html5"></i></li>
+                        <li class="list-inline-item"><i class="fab fa-css3-alt"></i></li>
+                        <li class="list-inline-item"><i class="fab fa-js-square"></i></li>
+                        <li class="list-inline-item"><i class="fab fa-angular"></i></li>
+                        <li class="list-inline-item"><i class="fab fa-react"></i></li>
+                        <li class="list-inline-item"><i class="fab fa-node-js"></i></li>
+                        <li class="list-inline-item"><i class="fab fa-sass"></i></li>
+                        <li class="list-inline-item"><i class="fab fa-less"></i></li>
+                        <li class="list-inline-item"><i class="fab fa-wordpress"></i></li>
+                        <li class="list-inline-item"><i class="fab fa-gulp"></i></li>
+                        <li class="list-inline-item"><i class="fab fa-grunt"></i></li>
+                        <li class="list-inline-item"><i class="fab fa-npm"></i></li>
+                    </ul>
+                    <div class="subheading mb-3">Workflow</div>
+                    <ul class="fa-ul mb-0">
+                        <li>
+                            <span class="fa-li"><i class="fas fa-check"></i></span>
+                            Mobile-First, Responsive Design
+                        </li>
+                        <li>
+                            <span class="fa-li"><i class="fas fa-check"></i></span>
+                            Cross Browser Testing & Debugging
+                        </li>
+                        <li>
+                            <span class="fa-li"><i class="fas fa-check"></i></span>
+                            Cross Functional Teams
+                        </li>
+                        <li>
+                            <span class="fa-li"><i class="fas fa-check"></i></span>
+                            Agile Development & Scrum
+                        </li>
+                    </ul>
+                </div>
+            </section>
+            <hr class="m-0" />
+            <!-- Interests-->
+            <section class="resume-section" id="interests">
+                <div class="resume-section-content">
+                    <h2 class="mb-5">Interests</h2>
+                    <p>Apart from being a web developer, I enjoy most of my time being outdoors. In the winter, I am an avid skier and novice ice climber. During the warmer months here in Colorado, I enjoy mountain biking, free climbing, and kayaking.</p>
+                    <p class="mb-0">When forced indoors, I follow a number of sci-fi and fantasy genre movies and television shows, I am an aspiring chef, and I spend a large amount of my free time exploring the latest technology advancements in the front-end web development world.</p>
+                </div>
+            </section>
+            <hr class="m-0" />
+            <!-- Awards-->
+            <section class="resume-section" id="awards">
+                <div class="resume-section-content">
+                    <h2 class="mb-5">Awards & Certifications</h2>
+                    <ul class="fa-ul mb-0">
+                        <li>
+                            <span class="fa-li"><i class="fas fa-trophy text-warning"></i></span>
+                            Google Analytics Certified Developer
+                        </li>
+                        <li>
+                            <span class="fa-li"><i class="fas fa-trophy text-warning"></i></span>
+                            Mobile Web Specialist - Google Certification
+                        </li>
+                        <li>
+                            <span class="fa-li"><i class="fas fa-trophy text-warning"></i></span>
+                            1
+                            <sup>st</sup>
+                            Place - University of Colorado Boulder - Emerging Tech Competition 2009
+                        </li>
+                        <li>
+                            <span class="fa-li"><i class="fas fa-trophy text-warning"></i></span>
+                            1
+                            <sup>st</sup>
+                            Place - University of Colorado Boulder - Adobe Creative Jam 2008 (UI Design Category)
+                        </li>
+                        <li>
+                            <span class="fa-li"><i class="fas fa-trophy text-warning"></i></span>
+                            2
+                            <sup>nd</sup>
+                            Place - University of Colorado Boulder - Emerging Tech Competition 2008
+                        </li>
+                        <li>
+                            <span class="fa-li"><i class="fas fa-trophy text-warning"></i></span>
+                            1
+                            <sup>st</sup>
+                            Place - James Buchanan High School - Hackathon 2006
+                        </li>
+                        <li>
+                            <span class="fa-li"><i class="fas fa-trophy text-warning"></i></span>
+                            3
+                            <sup>rd</sup>
+                            Place - James Buchanan High School - Hackathon 2005
+                        </li>
+                    </ul>
+                </div>
+            </section>
         </div>
-            
-    </div>
-
-</div>
-<!--End pagewrapper-->
-
-
-<script src="js/jquery.js"></script> 
-
-<script src="js/bootstrap.min.js"></script>
-<script src="js/jquery.mCustomScrollbar.concat.min.js"></script>
-<script src="js/owl.js"></script>
-<script src="js/wow.js"></script>
-<script src="js/appear.js"></script>
-<script src="js/jquery.fancybox.js"></script>
-<script src="js/element-in-view.js"></script>
-<script src="js/knob.js"></script>
-<script src="js/validate.js"></script>
-<script src="js/mousemoveparallax.js"></script>
-<script src="js/pagenav.js"></script>
-<script src="js/jquery-type.js"></script>
-<script src="js/jquery.nicescroll.min.js"></script>
-<script src="js/particle-alone.js"></script>
-<script src="js/script.js"></script>
-
-<!--Google Map APi Key-->
-<script src="http://ditu.google.cn/maps/api/js?key=AIzaSyATY4Rxc8jNvDpsK8ZetC7JyN4PFVYGCGM"></script>
-<script src="js/gmaps.js"></script>
-<script src="js/map-script.js"></script>
-<!--End Google Map APi-->
-
-</body>
+        <!-- Bootstrap core JS-->
+        <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.0/dist/js/bootstrap.bundle.min.js"></script>
+        <!-- Core theme JS-->
+        <script src="js/scripts.js"></script>
+    </body>
 </html>
