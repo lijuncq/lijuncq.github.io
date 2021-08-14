@@ -23,5 +23,5 @@ layout: default
 
 <br>
 <br>
-2003年毕业于武汉水利电力大学机械设计及其自动化专业. 5年烟气处理系统布置设计经验(包括电厂脱硫脱硝装置, 铝业烟气处理装置), 8年电厂布置及管道设计经验,5年电厂现场大件吊装方案设计经验, 熟悉ASME, EN标准. 熟练PDMS/E3D, Tekla, Navisworks, AutoCAD等工程软件并能进行二次开发. 
+2003年毕业于武汉水利电力大学机械设计及其自动化专业. 5年烟气处理系统布置设计经验(包括电厂脱硫脱硝装置, 铝业烟气处理装置), 8年电厂布置及管道设计经验,5年电厂现场大件吊装方案设计经验, 熟悉ASME, EN标准. 熟练PDMS/E3D, Tekla, Navisworks, AutoCAD等工程软件并能进行二次开发. <br>
 Experienced Senior Piping & Layout Engineer with a demonstrated history of working in the power & aluminium industry. Skilled in piping & layout design, ASME Standards, PDMS/E3D and Tekla. Strong engineering professional with a Bachelor's Degree focused in Mechanical Engineering and Automation from Wuhan University of Hydraulic and Electric Engineering.
