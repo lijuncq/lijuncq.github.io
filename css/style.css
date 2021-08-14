@@ -504,7 +504,7 @@ img{
 
 .card-outer .card-inner-box {
 	position: relative;
-	min-height: 600px;
+	min-height: 800px;
 	background-image: -moz-linear-gradient( 110deg, rgb(145,71,255) 0%, rgb(121,39,245) 100%);
 	background-image: -webkit-linear-gradient( 110deg, rgb(145,71,255) 0%, rgb(121,39,245) 100%);
 	background-image: -ms-linear-gradient( 110deg, rgb(145,71,255) 0%, rgb(121,39,245) 100%);
