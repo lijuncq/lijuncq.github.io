@@ -36,11 +36,15 @@ layout: default
 <br>
 *   5年烟气处理系统布置设计经验(包括电厂脱硫脱硝装置, 铝业烟气处理装置)
 *   5 years of piping & layout design expirence for gas treatment system(power station and aluminium industry)
+
 *   8年电厂布置及管道设计经验
 *   8 years of piping & layout design expirence for power station
+
 *   5年电厂现场大件吊装方案设计经验
 *   5 years of heavy equipment lifting expirence for power station
+
 *   熟悉ASME, EN标准
 *   Familar with ASME code and EN code
+
 *   熟练PDMS/E3D, Tekla, Navisworks, AutoCAD等工程软件并能进行二次开发
 *   Skilled in PDMS/E3D, Tekla, Navisworks and AutoCAD, including customization programming
