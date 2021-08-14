@@ -22,7 +22,7 @@ layout: default
                 </p>
                 <p>
                   <div>一个 <strong>工程软件二次开发者</strong></div>
-                  <div>a <strong>engineering software customization programmer</strong></div>
+                  <div>an <strong>engineering software customization programmer</strong></div>
                 </p>
                 <p>
                   <div>一个 <strong>PDMS/E3D 资深用户</strong></div>
