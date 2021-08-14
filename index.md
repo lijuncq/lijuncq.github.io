@@ -10,8 +10,14 @@ layout: default
   <div class="col-6">
     <div class="designation">
         <div class="typing-title">
-            <p>你好, 我是 李俊</p>
-            <p>Hi, I'm Jun LI</p>
+            <p>
+              <div>你好, 我是 李俊</div>
+              <div>Hi, I'm Jun LI</div>
+            </p>
+            <p>
+              <div>一个 <strong>高级管道及布置工程师</strong></div>
+              <div>a <strong>senior piping & layout engineer</strong></div>
+            </p>
             <p>一个 <strong>高级管道及布置工程师 senior piping & layout engineer</strong></p>
             <p>一个 <strong>工程软件二次开发者 engineering software customization programmer</strong></p>
             <p>一个 <strong>PDMS/E3D 资深用户 key user</strong></p>
