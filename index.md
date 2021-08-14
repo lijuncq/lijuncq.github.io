@@ -2,7 +2,7 @@
 layout: default
 ---
 
-<div class="card">
+<div class="card bg-light">
 
   <div class="card-body">
     <div class="row align-items-center">
