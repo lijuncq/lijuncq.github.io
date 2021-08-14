@@ -2,9 +2,12 @@
 layout: default
 ---
 
-<div class="image"><img src="/media/profile.png" alt=""></div>
-<div class="author">
+<div class="row">
+  <div class="col-4">
+    <div class="image"><img src="/media/profile.png" alt=""></div></br>
     <h3>李俊</h3>
+  </div>
+  <div class="col-6">
     <div class="designation">
         你好,我是
         <div class="typing-title">
@@ -14,6 +17,7 @@ layout: default
         </div>
         <span class="typed-title"></span>
     </div>
+  </div>
 </div>
 
 
