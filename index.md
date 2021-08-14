@@ -12,9 +12,9 @@ layout: default
         <div class="typing-title">
             <p>你好, 我是 李俊</p>
             <p>Hi, I'm Jun LI</p>
-            <p>一个 a <strong>高级管道及布置工程师 senior piping & layout engineer</strong></p>
-            <p>一个 a <strong>工程软件二次开发者 engineering software customization programmer</strong></p>
-            <p>一个 a <strong>PDMS/E3D 资深用户 key user</strong></p>
+            <p>一个 <strong>高级管道及布置工程师 senior piping & layout engineer</strong></p>
+            <p>一个 <strong>工程软件二次开发者 engineering software customization programmer</strong></p>
+            <p>一个 <strong>PDMS/E3D 资深用户 key user</strong></p>
         </div>
         <span class="typed-title"></span>
     </div>
