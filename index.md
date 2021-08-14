@@ -2,14 +2,15 @@
 layout: default
 ---
 
-<div class="row">
+<div class="row align-items-center">
   <div class="col-4">
-    <div class="image"><img src="/media/profile.png" alt="">李俊</div>
+    <div class="image"><img src="/media/profile.png" alt=""></div>
+    <div>李俊</div>
   </div>
   <div class="col-6">
     <div class="designation">
-        你好,我是<br>
         <div class="typing-title">
+            <p>我是</p>
             <p>一个 <strong>高级管道及布置工程师</strong></p>
             <p>一个 <strong>工程软件二次开发者</strong></p>
             <p>一个 <strong>PDMS/E3D 资深用户</strong></p>
