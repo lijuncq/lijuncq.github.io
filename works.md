@@ -31,6 +31,7 @@ layout: works
 <summary>Navisworks 二次开发</summary>
 <div class="image"><img src="/media/navis-jtools.png" alt=""></div>
 <pre>
+<code>
 ```c#
 public static string Folder2Nwd(string folder, string extensions)
 {
@@ -75,6 +76,7 @@ public static string Folder2Nwd(string folder, string extensions)
     return "";
 }
 \```
+</code>
 </pre>
 </details>
 
