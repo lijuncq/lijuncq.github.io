@@ -44,9 +44,8 @@ layout: works
 ![macros](/media/pdms-macros.png)
 
 <details>
-  <summary>Navisworks 二次开发</summary>
-<div class="image"><img src="/media/pdms-isorevision.png" alt=""></div>
-![addins](/media/pdms-isorevision.png)
+    <summary><h1>Navisworks 二次开发</h1></summary>
+    <div class="image"><img src="/media/pdms-isorevision.png" alt=""></div>
 </details>
 
 # Navisworks 二次开发
