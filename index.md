@@ -41,7 +41,7 @@ layout: default
 
 
 *   5年烟气处理系统布置及管道设计经验(包括电厂脱硫脱硝装置, 铝业烟气处理装置)
-*   5 years of piping & layout design expirence for gas treatment system(power station and aluminium industry)
+*   5 years of piping & layout design expirence for gas treatment system(power station FGD, SCR and aluminium industry GTC, FTC)
 
 *   8年电厂布置及管道设计经验
 *   8 years of piping & layout design expirence for power station
