@@ -43,6 +43,13 @@ layout: works
 
 ![macros](/media/pdms-macros.png)
 
+<div class="toccolours mw-collapsible" style="width:400px; overflow:auto;">
+<div style="font-weight:bold;line-height:1.6;">Lorem ipsum sample</div>
+<div class="mw-collapsible-content">
+This text is collapsible.
+<img src="/media/pdms-isorevision.png" alt="">
+</div></div>
+
 <details>
     <summary><div><h1>Navisworks 二次开发</h1></div></summary>
     <div class="image"><img src="/media/pdms-isorevision.png" alt=""></div>
