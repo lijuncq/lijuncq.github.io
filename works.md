@@ -3,7 +3,7 @@ layout: works
 ---
 
 <details>
-    <summary>PDMS/E3D 二次开发</summary>
+    <summary>PDMS/E3D customization 二次开发 (点击查看 click to expand)</summary>
     <br>
     <div class="image"><img src="/media/pdms-jtools.png" alt=""></div>
     <h4>1. Engineering design review (pml pmlnet c#)</h4>
@@ -28,22 +28,22 @@ layout: works
 </details>
 
 <details>
-    <summary>Navisworks 二次开发</summary>
+    <summary>Navisworks customization 二次开发 (c#)</summary>
     <div class="image"><img src="/media/navis-jtools.png" alt=""></div>
     <div class="image"><img src="/media/navis-jtools-code.png" alt=""></div>
 </details>
 
 <details>
-    <summary>Tekla 二次开发</summary>
+    <summary>Tekla customization 二次开发 (c#)</summary>
     <div class="image"><img src="/media/pdms-isorevision.png" alt=""></div>
 </details>
 
 <details>
-    <summary>AutoCAD 二次开发</summary>
+    <summary>AutoCAD customization 二次开发 (c#)</summary>
     <div class="image"><img src="/media/pdms-isorevision.png" alt=""></div>
 </details>
 
 <details>
-    <summary>Django 框架网站</summary>
+    <summary>Django (python)</summary>
     <div class="image"><img src="/media/pdms-isorevision.png" alt=""></div>
 </details>

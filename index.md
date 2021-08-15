@@ -40,7 +40,7 @@ layout: default
 <br>
 
 
-*   5年烟气处理系统布置设计经验(包括电厂脱硫脱硝装置, 铝业烟气处理装置)
+*   5年烟气处理系统布置及管道设计经验(包括电厂脱硫脱硝装置, 铝业烟气处理装置)
 *   5 years of piping & layout design expirence for gas treatment system(power station and aluminium industry)
 
 *   8年电厂布置及管道设计经验
