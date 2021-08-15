@@ -28,54 +28,54 @@ layout: works
 </details>
 
 <details>
-    <summary>Navisworks 二次开发</summary>
-    <div class="image"><img src="/media/navis-jtools.png" alt=""></div>
-    <pre>
-        <code>
-        public static string Folder2Nwd(string folder, string extensions)
+<summary>Navisworks 二次开发</summary>
+<div class="image"><img src="/media/navis-jtools.png" alt=""></div>
+<pre>
+```c#
+public static string Folder2Nwd(string folder, string extensions)
+{
+    string reusltNwd = folder + ".nwd";
+    List<string> subFolders = new List<string>();
+
+    subFolders = JunCommon.GetAllSubFolders(folder);
+    subFolders.Add(folder);
+    subFolders.Sort();
+
+    List<List<string>> packages = new List<List<string>>();
+    int mainDepth = JunCommon.FolderDepth(folder);
+    for(int i=0; i< mainDepth; i++)
+    {
+        packages.Add(new List<string>());
+    }
+
+    foreach(string subFolder in subFolders)
+    {
+        int depth = JunCommon.FolderDepth(subFolder);
+        if(packages.Count < depth)
         {
-            string reusltNwd = folder + ".nwd";
-            List<string> subFolders = new List<string>();
-
-            subFolders = JunCommon.GetAllSubFolders(folder);
-            subFolders.Add(folder);
-            subFolders.Sort();
-
-            List<List<string>> packages = new List<List<string>>();
-            int mainDepth = JunCommon.FolderDepth(folder);
-            for(int i=0; i< mainDepth; i++)
+            for(int j=packages.Count; j<depth; j++)
             {
                 packages.Add(new List<string>());
             }
-
-            foreach(string subFolder in subFolders)
-            {
-                int depth = JunCommon.FolderDepth(subFolder);
-                if(packages.Count < depth)
-                {
-                    for(int j=packages.Count; j<depth; j++)
-                    {
-                        packages.Add(new List<string>());
-                    }
-                }
-                packages[depth - 1].Add(subFolder );
-            }
-
-            for(int i=packages.Count; i>=mainDepth; i--)
-            {
-                foreach(string folderPath in packages[i - 1])
-                {
-                    string listFile = CreateNwdFileList(folderPath, extensions.ToLower());
-                    List2Nwd(listFile, listFile.Replace(".lis",".nwd"), NavisApi.DocumentFileVersion.Navisworks2015, NavisApi.Application.MainDocument);
-                }
-            }
-
-            if (File.Exists(reusltNwd))
-                return reusltNwd;
-            return "";
         }
-        </code>
-    </pre>
+        packages[depth - 1].Add(subFolder );
+    }
+
+    for(int i=packages.Count; i>=mainDepth; i--)
+    {
+        foreach(string folderPath in packages[i - 1])
+        {
+            string listFile = CreateNwdFileList(folderPath, extensions.ToLower());
+            List2Nwd(listFile, listFile.Replace(".lis",".nwd"), NavisApi.DocumentFileVersion.Navisworks2015, NavisApi.Application.MainDocument);
+        }
+    }
+
+    if (File.Exists(reusltNwd))
+        return reusltNwd;
+    return "";
+}
+\```
+</pre>
 </details>
 
 <details>
