@@ -45,7 +45,7 @@ layout: works
 
 <details>
   <summary>Navisworks 二次开发</summary>
-![addins](/media/pdms-isodraft.png)
+<div class="image"><img src="/media/pdms-isorevision.png" alt=""></div>
 ![addins](/media/pdms-isorevision.png)
 </details>
 
