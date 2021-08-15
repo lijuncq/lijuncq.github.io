@@ -44,7 +44,7 @@ layout: works
 ![macros](/media/pdms-macros.png)
 
 <details>
-    <summary><h1>Navisworks 二次开发</h1></summary>
+    <summary><div><h1>Navisworks 二次开发</h1></div></summary>
     <div class="image"><img src="/media/pdms-isorevision.png" alt=""></div>
 </details>
 
