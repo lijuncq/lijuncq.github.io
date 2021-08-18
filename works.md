@@ -35,15 +35,23 @@ layout: works
 
 <details>
     <summary>Tekla customization 二次开发 (c#)</summary>
-    <div class="image"><img src="/media/pdms-isorevision.png" alt=""></div>
+    <a>Tool set for tekla, including a commandline, custom component loader...</a>
+    <div class="image"><img src="/media/tekla-jtools1.jpg" alt=""></div>
+    <div class="image"><img src="/media/tekla-jtools2.jpg" alt=""></div>
 </details>
 
 <details>
     <summary>AutoCAD customization 二次开发 (c#)</summary>
-    <div class="image"><img src="/media/pdms-isorevision.png" alt=""></div>
+    <a>Batch replace/delete/move/copy/substring text in AutoCAD.</a>
+    <div class="image"><img src="/media/autocad-jtools1.jpg" alt=""></div>
+    <a>Batch plot to pdf in AutoCAD.</a>
+    <div class="image"><img src="/media/autocad-jtools2.jpg" alt=""></div>
 </details>
 
 <details>
-    <summary>Django (python)</summary>
-    <div class="image"><img src="/media/pdms-isorevision.png" alt=""></div>
+    <summary>NWD Task Manager (python Django)</summary>
+    <a>Export nwd file from PDMS/E3D based on schedule.</a>
+    <div class="image"><img src="/media/django-nwd0.jpg" alt=""></div>
+    <div class="image"><img src="/media/django-nwd1.jpg" alt=""></div>
+    <div class="image"><img src="/media/django-nwd2.jpg" alt=""></div>
 </details>
