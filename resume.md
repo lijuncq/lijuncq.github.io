@@ -5,6 +5,8 @@ layout: Resume
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to another page](./another-page.html).
+[js1](https://code.jquery.com/jquery-3.2.1.slim.min.js)
+[js2](https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js)
 
 There should be whitespace between paragraphs.
 
