@@ -29,28 +29,34 @@ layout: works
 
 <details>
     <summary>Navisworks customization 二次开发 (c#)</summary>
+    <br>
+    <h4>a plugin to load a list contains transforms / load files from a directory and keep the directory structure in nwd file</h4>
     <div class="image"><img src="/media/navis-jtools.png" alt=""></div>
     <div class="image"><img src="/media/navis-jtools-code.png" alt=""></div>
 </details>
 
 <details>
     <summary>Tekla customization 二次开发 (c#)</summary>
-    <a>Tool set for tekla, including a commandline, custom component loader...</a>
+    <br>
+    <h4>Tool set for tekla, including a commandline, custom component loader...</h4>
     <div class="image"><img src="/media/tekla-jtools1.jpg" alt=""></div>
     <div class="image"><img src="/media/tekla-jtools2.jpg" alt=""></div>
 </details>
 
 <details>
     <summary>AutoCAD customization 二次开发 (c#)</summary>
-    <a>Batch replace/delete/move/copy/substring text in AutoCAD.</a>
+    <br>
+    <h4>Batch replace/delete/move/copy/substring text in AutoCAD.</h4>
     <div class="image"><img src="/media/autocad-jtools1.jpg" alt=""></div>
-    <a>Batch plot to pdf in AutoCAD.</a>
+    <br>
+    <h4>Batch plot to pdf in AutoCAD.</h4>
     <div class="image"><img src="/media/autocad-jtools2.jpg" alt=""></div>
 </details>
 
 <details>
     <summary>NWD Task Manager (python Django)</summary>
-    <a>Export nwd file from PDMS/E3D based on schedule.</a>
+    <br>
+    <h4>Export nwd file from PDMS/E3D based on schedule.</h4>
     <div class="image"><img src="/media/django-nwd0.jpg" alt=""></div>
     <div class="image"><img src="/media/django-nwd1.jpg" alt=""></div>
     <div class="image"><img src="/media/django-nwd2.jpg" alt=""></div>
