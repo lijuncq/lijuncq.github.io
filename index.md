@@ -7,7 +7,7 @@ layout: default
   <div class="card-body">
     <div class="row align-items-center">
       <div class="col-sm-4">
-        <div class="image"><img src="/media/profile.png" alt=""></div>
+        <div class="image mx-auto"><img src="/media/profile.png" alt=""></div>
       </div>
       <div class="col-sm-6">
         <div class="designation">
