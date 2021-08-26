@@ -6,10 +6,10 @@ layout: default
 
   <div class="card-body">
     <div class="row align-items-center">
-      <div class="col-4">
+      <div class="col-sm-4">
         <div class="image"><img src="/media/profile.png" alt=""></div>
       </div>
-      <div class="col-6">
+      <div class="col-sm-6">
         <div class="designation">
             <div class="typing-title">
                 <p>
