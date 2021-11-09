@@ -15,6 +15,26 @@ layout: Resume
 
 ### 技能
 
+<style>
+ 
+.container {
+  width: 100%;
+  background-color: #ddd;
+}
+ 
+.skills {
+  text-align: right;
+  padding-right: 20px;
+  line-height: 40px;
+  color: white;
+}
+'''这个是进度条
+.html {width: 80%; background-color: #2196F3;}
+.css {width: 80%; background-color: #2196F3;}
+.js {width: 65%; background-color: #f44336;}
+.php {width: 60%; background-color: #808080;}
+'''
+</style>
 <div class="container">
   <div class="skills html">90%</div>
 </div>
