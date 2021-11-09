@@ -17,7 +17,7 @@ layout: default
                   <div>Hi, I'm Jun LI</div>
                 </p>
                 <p>
-                  <div>一个 <strong>高级管道及布置工程师</strong></div>
+                  <div>一个 <strong>高级布置及管道工程师</strong></div>
                   <div>a <strong>senior piping & layout engineer</strong></div>
                 </p>
                 <p>
@@ -52,5 +52,5 @@ layout: default
 *   熟悉ASME, EN标准
 *   Familar with ASME code and EN code
 
-*   熟练PDMS/E3D, Tekla, Navisworks, AutoCAD等工程软件并能进行二次开发
+*   精通PDMS/E3D, Tekla, Navisworks, AutoCAD等工程软件及二次开发
 *   Skilled in PDMS/E3D, Tekla, Navisworks and AutoCAD, including customization programming

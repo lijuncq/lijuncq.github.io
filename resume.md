@@ -4,18 +4,16 @@ layout: Resume
 
 ## 李俊
 
-41岁，工作18年，北京在职，两个月到岗
+*   41岁，工作18年，北京在职，两个月到岗
 
-18600363243
+*   18600363243 lijuncq@live.com
 
-lijuncq@live.com
 
-**优势亮点**
+## 优势亮点
 
 1. 电厂，脱硫，铝业烟气处理及气力输送装置及管道布置，详细设计经验丰富，熟悉国标，ASME，EN标准。
 
 2. IT知识丰富，熟悉c#， python，JavaScript及pml语言。精通PDMS/E3D, Tekla, Navisworks等工程软件及二次开发,
-
 作品见[https://lijuncq.github.io/works.htm](https://lijuncq.github.io/works.htm)
 
 **期望职位**
