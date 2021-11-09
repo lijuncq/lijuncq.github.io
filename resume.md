@@ -31,14 +31,14 @@ layout: Resume
 '''这个是进度条
 .progress100 {width: 100%; background-color: #FA8671;}
 .progress90 {width: 90%; background-color: #F8696B;}
-.progress80 {width: 80%; background-color: #F8696B;}
-.progress70 {width: 70%; background-color: #F8696B;}
-.progress60 {width: 60%; background-color: #F8696B;}
-.progress50 {width: 50%; background-color: #F8696B;}
-.progress40 {width: 40%; background-color: #F8696B;}
-.progress30 {width: 30%; background-color: #F8696B;}
-.progress20 {width: 20%; background-color: #F8696B;}
-.progress10 {width: 10%; background-color: #F8696B;}
+.progress80 {width: 80%; background-color: #FCA377;}
+.progress70 {width: 70%; background-color: #FDC07C;}
+.progress60 {width: 60%; background-color: #FFDD82;}
+.progress50 {width: 50%; background-color: #EDE683;}
+.progress40 {width: 40%; background-color: #CBDC81;}
+.progress30 {width: 30%; background-color: #A8D27F;}
+.progress20 {width: 20%; background-color: #85C87D;}
+.progress10 {width: 10%; background-color: #63BE7B;}
 .progress0 {width: 0%; background-color: #DDDDDD;}
 .css {width: 80%; background-color: #2196F3;}
 .js {width: 65%; background-color: #f44336;}
@@ -60,14 +60,24 @@ layout: Resume
   <div class="skills progress80">Navisworks</div>
 </div>
  
-<p>JavaScript</p>
+<p></p>
 <div class="container">
   <div class="skills progress60">C#</div>
 </div>
  
-<p>PHP</p>
+<p></p>
 <div class="container">
   <div class="skills progress50">Python</div>
+</div>
+
+<p></p>
+<div class="container">
+  <div class="skills progress40">JavaScript</div>
+</div>
+
+<p></p>
+<div class="container">
+  <div class="skills progress40">SQL</div>
 </div>
 
 ### 期望职位
