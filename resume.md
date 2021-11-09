@@ -31,15 +31,15 @@ layout: Resume
 '''这个是进度条
 .progress100 {width: 100%; background-color: #FA8671;}
 .progress90 {width: 90%; background-color: #F8696B;}
-.progress80 {width: 90%; background-color: #F8696B;}
-.progress70 {width: 90%; background-color: #F8696B;}
-.progress60 {width: 90%; background-color: #F8696B;}
-.progress50 {width: 90%; background-color: #F8696B;}
-.progress40 {width: 90%; background-color: #F8696B;}
-.progress30 {width: 90%; background-color: #F8696B;}
-.progress20 {width: 90%; background-color: #F8696B;}
-.progress10 {width: 90%; background-color: #F8696B;}
-
+.progress80 {width: 80%; background-color: #F8696B;}
+.progress70 {width: 70%; background-color: #F8696B;}
+.progress60 {width: 60%; background-color: #F8696B;}
+.progress50 {width: 50%; background-color: #F8696B;}
+.progress40 {width: 40%; background-color: #F8696B;}
+.progress30 {width: 30%; background-color: #F8696B;}
+.progress20 {width: 20%; background-color: #F8696B;}
+.progress10 {width: 10%; background-color: #F8696B;}
+.progress0 {width: 0%; background-color: #F8696B;}
 .css {width: 80%; background-color: #2196F3;}
 .js {width: 65%; background-color: #f44336;}
 .php {width: 60%; background-color: #808080;}
