@@ -26,7 +26,7 @@ layout: Resume
   text-align: left;
   padding-right: 20px;
   line-height: 40px;
-  color: white;
+  color: black;
 }
 '''这个是进度条
 .progress100 {width: 100%; background-color: #FA8671;}
@@ -40,9 +40,6 @@ layout: Resume
 .progress20 {width: 20%; background-color: #85C87D;}
 .progress10 {width: 10%; background-color: #63BE7B;}
 .progress0 {width: 0%; background-color: #DDDDDD;}
-.css {width: 80%; background-color: #2196F3;}
-.js {width: 65%; background-color: #f44336;}
-.php {width: 60%; background-color: #808080;}
 '''
 </style>
 <p></p>
