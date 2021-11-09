@@ -13,6 +13,27 @@ layout: Resume
 2. IT知识丰富，熟悉c#， python，JavaScript及pml语言。精通PDMS/E3D, Tekla, Navisworks等工程软件及二次开发,
 作品见[https://lijuncq.github.io/works.htm](https://lijuncq.github.io/works.htm)
 
+### 技能
+
+<div class="container">
+  <div class="skills html">90%</div>
+</div>
+ 
+<p>CSS</p>
+<div class="container">
+  <div class="skills css">80%</div>
+</div>
+ 
+<p>JavaScript</p>
+<div class="container">
+  <div class="skills js">65%</div>
+</div>
+ 
+<p>PHP</p>
+<div class="container">
+  <div class="skills php">60%</div>
+</div>
+
 ### 期望职位
 
 数字化交付工程师/设计经理/布置及管道工程师
