@@ -45,15 +45,17 @@ layout: Resume
 .php {width: 60%; background-color: #808080;}
 '''
 </style>
-
+<p></p>
 <div class="container">
   <div class="skills progress90">电厂，脱硫，铝业烟气处理及气力输送装置布置及管道设计</div>
 </div>
 
+<p></p>
 <div class="container">
   <div class="skills progress90">PDMS/E3D</div>
 </div>
  
+ <p></p>
 <div class="container">
   <div class="skills progress80">Navisworks</div>
 </div>
