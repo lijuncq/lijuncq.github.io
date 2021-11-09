@@ -28,6 +28,3 @@ layout: contact
     </div>
   </div>
 </div>
-
-<br>
-<br>
