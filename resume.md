@@ -29,14 +29,30 @@ layout: Resume
   color: white;
 }
 '''这个是进度条
-.html {width: 80%; background-color: #2196F3;}
+.progress100 {width: 100%; background-color: #FA8671;}
+.progress90 {width: 90%; background-color: #F8696B;}
+.progress80 {width: 90%; background-color: #F8696B;}
+.progress70 {width: 90%; background-color: #F8696B;}
+.progress60 {width: 90%; background-color: #F8696B;}
+.progress50 {width: 90%; background-color: #F8696B;}
+.progress40 {width: 90%; background-color: #F8696B;}
+.progress30 {width: 90%; background-color: #F8696B;}
+.progress20 {width: 90%; background-color: #F8696B;}
+.progress10 {width: 90%; background-color: #F8696B;}
+
 .css {width: 80%; background-color: #2196F3;}
 .js {width: 65%; background-color: #f44336;}
 .php {width: 60%; background-color: #808080;}
 '''
 </style>
+<p>电厂，脱硫，铝业烟气处理及气力输送装置布置及管道设计</p>
 <div class="container">
-  <div class="skills html">90%</div>
+  <div class="skills progress90"></div>
+</div>
+
+<p>Test</p>
+<div class="container">
+  <div class="skills">0%</div>
 </div>
  
 <p>CSS</p>
