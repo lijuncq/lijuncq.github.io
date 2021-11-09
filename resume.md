@@ -22,7 +22,7 @@ layout: Resume
 
 <style>
  
-.container {
+.progresscontainer {
   width: 100%;
   background-color: #ddd;
 }
@@ -48,12 +48,12 @@ layout: Resume
 '''
 </style>
 <p></p>
-<div class="container">
+<div class="container progresscontainer">
   <div class="skills progress90">管道设计</div>
 </div>
 
 <p></p>
-<div class="container">
+<div class="container progresscontainer">
   <div class="skills progress90">PDMS/E3D/PML</div>
 </div>
  
