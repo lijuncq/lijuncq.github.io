@@ -16,7 +16,7 @@ layout: Resume
 
 ### 期望职位
 
-数字化交付工程师/设计经理/布置及管道工程师
+数字化交付工程师/设计经理/布置及管道工程师, 地点不限
 
 ### 技能
 
@@ -58,27 +58,27 @@ layout: Resume
 </div>
  
  <p></p>
-<div class="container">
+<div class="container progresscontainer">
   <div class="skills progress80">Navisworks</div>
 </div>
  
  <p></p>
-<div class="container">
-  <div class="skills progress60">设计管理</div>
+<div class="container progresscontainer">
+  <div class="skills progress60">项目管理</div>
 </div>
 
 <p></p>
-<div class="container">
+<div class="container progresscontainer">
   <div class="skills progress60">C#</div>
 </div>
  
 <p></p>
-<div class="container">
+<div class="container progresscontainer">
   <div class="skills progress50">Python</div>
 </div>
 
 <p></p>
-<div class="container">
+<div class="container progresscontainer">
   <div class="skills progress40">Html/JavaScript/SQL</div>
 </div>
 
@@ -101,8 +101,9 @@ layout: Resume
 
 1. 负责电厂主厂房各系统管道布置及详细设计。
 2. 管道及支吊架模型，图纸审查。
-3. 负责PDMS软件技术支持。
-4. 管道支吊架设计流程优化。
+3. 项目管理。
+4. 负责PDMS软件技术支持。
+5. 管道支吊架设计流程优化。
 
 **广东火电工程总公司**
 

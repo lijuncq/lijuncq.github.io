@@ -49,6 +49,9 @@ layout: default
 *   5年电厂现场大件吊装方案设计经验
 *   5 years of heavy equipment lifting expirence for power station
 
+*   2个项目管理经验
+*   2 projects management experience
+
 *   熟悉ASME, EN标准
 *   Familar with ASME code and EN code
 
