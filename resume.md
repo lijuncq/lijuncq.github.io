@@ -23,7 +23,7 @@ layout: Resume
 }
  
 .skills {
-  text-align: right;
+  text-align: left;
   padding-right: 20px;
   line-height: 40px;
   color: white;
@@ -45,29 +45,27 @@ layout: Resume
 .php {width: 60%; background-color: #808080;}
 '''
 </style>
-<p>电厂，脱硫，铝业烟气处理及气力输送装置布置及管道设计</p>
+
 <div class="container">
-  <div class="skills progress90">90%</div>
+  <div class="skills progress90">电厂，脱硫，铝业烟气处理及气力输送装置布置及管道设计</div>
 </div>
 
-<p>Test</p>
 <div class="container">
-  <div class="skills progress0">0%</div>
+  <div class="skills progress90">PDMS/E3D</div>
 </div>
  
-<p>CSS</p>
 <div class="container">
-  <div class="skills css">80%</div>
+  <div class="skills progress80">Navisworks</div>
 </div>
  
 <p>JavaScript</p>
 <div class="container">
-  <div class="skills js">65%</div>
+  <div class="skills progress60">C#</div>
 </div>
  
 <p>PHP</p>
 <div class="container">
-  <div class="skills php">60%</div>
+  <div class="skills progress50">Python</div>
 </div>
 
 ### 期望职位
