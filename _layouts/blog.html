@@ -23,9 +23,9 @@
       <div class="collapse navbar-collapse" id="navbarText">
         <div class="navbar-nav">
           <a class="nav-item nav-link text-light" href="{{ '/index.html' | relative_url }}">关于我 About</a>
-          <a class="nav-item nav-link text-light" href="{{ '/resume.html' | relative_url }}">简历 Resume</a>
-          <a class="nav-item nav-link text-light" href="#">博客 Blog</a>
-          <a class="nav-item nav-link active" href="#">作品 Works <span class="sr-only">(current)</span></a>
+          <a class="nav-item nav-link active" href="#">简历 Resume <span class="sr-only">(current)</span></a>
+          <a class="nav-item nav-link text-light" href="{{ '/blog.html' | relative_url }}">博客 Blog</a>
+          <a class="nav-item nav-link text-light" href="{{ '/works.html' | relative_url }}">作品 Works</a>
           <a class="nav-item nav-link text-light" href="{{ '/contact.html' | relative_url }}">联系我 Contact</a>
         </div>
       </div>
@@ -35,7 +35,11 @@
       <br />
       <div class="card">
         <div class="card-header alert alert-info row">
-          <div class="col"><h3>作品 Works</h3></div>
+          <div class="col"><h3>简历 Resume</h3></div>
+          <div class="col-md-auto text-right" id="btn_download">
+            <a class="btn btn-sm btn-info text-white" href="{{ '/cv/CV_JunLI_CN.pdf' | relative_url }}">下载简历</a>
+            <a class="btn btn-sm btn-info text-white" href="{{ '/cv/CV_JunLI_EN.pdf' | relative_url }}">Download CV</a>
+          </div>
         </div>
         <div class="card-body">
           <main id="content" class="main-content" role="main">
