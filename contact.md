@@ -13,7 +13,7 @@ layout: contact
         <div class="designation">
             <div class="typing-title">
                 <p>
-                  <div>李俊</div>
+                  <div><strong>李俊</strong></div>
                 </p>
                 <p>
                   <div>Tel: <strong>18600363243</strong></div>
