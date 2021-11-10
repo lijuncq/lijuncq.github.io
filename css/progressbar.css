@@ -1,0 +1,23 @@
+.progresscontainer {
+    width: 100%;
+    background-color: #ddd;
+}
+   
+.skills {
+text-align: left;
+padding-right: 20px;
+line-height: 40px;
+color: black;
+}
+
+.progress100 {width: 100%; background-color: #FA8671;}
+.progress90 {width: 90%; background-color: #F8696B;}
+.progress80 {width: 80%; background-color: #FCA377;}
+.progress70 {width: 70%; background-color: #FDC07C;}
+.progress60 {width: 60%; background-color: #FFDD82;}
+.progress50 {width: 50%; background-color: #EDE683;}
+.progress40 {width: 40%; background-color: #CBDC81;}
+.progress30 {width: 30%; background-color: #A8D27F;}
+.progress20 {width: 20%; background-color: #85C87D;}
+.progress10 {width: 10%; background-color: #63BE7B;}
+.progress0 {width: 0%; background-color: #DDDDDD;}
