@@ -43,7 +43,7 @@ layout: default
 
 <p></p>
 <div class="container progresscontainer">
-  <div class="skills progress90">管道设计</div>
+  <div class="skills progress90">管道设计 Piping Design</div>
 </div>
 
 <p></p>
@@ -58,7 +58,7 @@ layout: default
  
  <p></p>
 <div class="container progresscontainer">
-  <div class="skills progress60">项目管理</div>
+  <div class="skills progress60">项目管理 Project Management</div>
 </div>
 
 <p></p>
