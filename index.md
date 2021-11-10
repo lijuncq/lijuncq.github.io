@@ -76,6 +76,8 @@ layout: default
   <div class="skills progress40">Html/JavaScript/SQL</div>
 </div>
 
+### 工作经验 Work Experience
+
 *   5年烟气处理系统布置及管道设计经验(包括电厂脱硫脱硝装置, 铝业烟气处理装置)
 *   5 years of piping & layout design expirence for gas treatment system(power station FGD, SCR and aluminium industry GTC, FTC)
 
