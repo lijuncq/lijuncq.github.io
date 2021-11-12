@@ -8,7 +8,7 @@ layout: works
     <div class="image"><img src="/media/pdms-jtools.png" alt=""></div>
     <h4>1. Engineering design review (pml pmlnet c#)</h4>
     <a>This addin use both pml and pml.net. The form was written in pml and the colorful gridview was written in c#.</a>
-    <div class="image"><img src="/media/pdms-design_review.png" alt=""></div>
+    <div class="image"><img src="/media/pdms-design-review.png" alt=""></div>
     <h4>2. Powerlist (pml)</h4>
     <a>A powerful tool to replace the system list tool, You can use this tool to search, add colmuns, subtotal and export.</a>
     <div class="image"><img src="/media/pdms-powerlist.png" alt=""></div>
