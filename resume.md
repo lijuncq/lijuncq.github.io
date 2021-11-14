@@ -10,7 +10,7 @@ layout: Resume
 ### 优势亮点
 
 * 丰富的电厂，脱硫，铝业烟气处理及气力输送装置及管道设计经验，熟悉国标，ASME，EN标准。
-* 有一定项目管理经验，熟悉项目管理流程。
+* 有项目管理经验，熟悉项目管理流程。
 * IT知识丰富，熟悉c#， python，JavaScript及pml语言。精通PDMS/E3D, Tekla, Navisworks等工程软件及二次开发,
 作品见[https://lijuncq.github.io/works.htm](https://lijuncq.github.io/works.htm)
 
