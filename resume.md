@@ -4,7 +4,7 @@ layout: Resume
 
 ## 李俊
 
-* 出生于1980-09，工作18年，北京在职，两个月到岗
+* 出生于1980-09，工作18年，北京在职，1个月到岗
 * 18600363243 [lijuncq@live.com](mailto:lijuncq@live.com)
 
 ### 优势亮点
