@@ -2,74 +2,72 @@
 layout: Resume
 ---
 
-## 李俊
+## Jun LI
 
-* 出生于1980-09，工作18年，北京在职，1个月到岗
 * 18600363243 [lijuncq@live.com](mailto:lijuncq@live.com)
+* Date of birth: 1980-09
+* Language Ability:		Chinese (Native)
+				        English (Fluent)
+* Current serving in GE Power(Beijing)
 
-### 优势亮点
+### Summary of Experience
 
-* 丰富的电厂，脱硫，铝业烟气处理及气力输送装置及管道设计经验，熟悉国标，ASME，EN标准。
-* 有设计管理经验，熟悉设计管理流程。
-* 英语听说读写均能胜任日常工作交流。
-* IT知识丰富，熟悉c#， python，JavaScript及pml语言。精通PDMS/E3D, Tekla, Navisworks等工程软件及二次开发,
-作品见[https://lijuncq.github.io/works.htm](https://lijuncq.github.io/works.htm)
+* 13 years of experience, as Layout & Piping Engineer in the design of Aluminum GTC, FTC, Seawater FGD, Steam Power Plants. Familiar with Steam Power Plant piping design procedure. Have international project design experience.
+* Have project management experience as project leader and deputy project design manager.
+* Have the ability to Investigate working procedure and simplify. Standardized the pipe support secondary steel structure in Alstom Beijing office, and helped the developing of the design software PSHES.
+* Codes and Standards: ASME, GB
+* Software: PDMS, E3D, Tekla, AutoCAD, Microsoft Office, Navisworks, C#, Pml. 
+See some of my work via [https://lijuncq.github.io/works.htm](https://lijuncq.github.io/works.htm)
 
-### 期望职位
+### Position Desired
 
-设计经理/主任, 布置及管道工程师, 地点:青岛 期望薪资:22k-30k
+* Design Manager, Expectation:320k, Work Time:Full Time, Work Place:Tsingtao, China, Available in 1 month.
 
-### 工作经历
+### Employment History
 
-**通用电气(北京)电力技术有限公司**
+**General Electric (China) Co., Ltd**
 
-2015/11 - 至今
-管道与布局 · 高级系统工程师
+2015/11 - Now
+Lead Engineer - System Engnieering
 
-1. 脱硫脱硝区域及铝业GTC,FTC设备装置及管道布置，初设及详设。
-2. 电厂主厂房各系统管道布置及详细设计。
-3. 模型及图纸审查。
-4. 相应工程软件(PDMS, Tekla, Navisworks)技术支持,参数化设计及二次开发(C#, pml, python)。
+1. Aluminum Core Team member as lead layout & piping engineer.
+2. Provide technical support for Aluminum GTC, FTC execution project, layout & piping design review.
+3. SWFGD and NID plant layout & piping design, design review.
+4. Lead the 3D parametric design(Tekla + C#) project for Aluminum and NID design automation.
+5. Pdms/E3D key user.
 
-**阿尔斯通(北京)工程技术有限公司**
+**Alstom (Beijing) Engineering Technology Co., Ltd.**
 
 2008/11 - 2015/11
-管道设计及布置 · 高级管道工程师
+Senior Piping Engineer
 
-1. 负责电厂主厂房各系统管道布置及详细设计。
-2. 管道及支吊架模型，图纸审查。
-3. 项目管理。
-4. 负责PDMS软件技术支持。
-5. 管道支吊架设计流程优化。
+1. Lead and review piping design inside turbine hall.
+2. Power plant turbine hall piping design batch leader.
+3. Lead the 6 sigma project for piping support simplify and standardization in Alstom Beijing office.
+4. Pdms/E3D key user.
 
-**广东火电工程总公司**
+**Guangdong Power Engineering Corporation**
 
 2003/08 - 2008/10
-安装技术室主任/机械工程师
+Erection Technical Leader / Mechanical Engineer
 
-1. 现场PDMS设计团队管理。
-2. 电厂大件设备运输及吊装方案编写与模拟。
+1. Pdms design team management.
+2. Heavy equipment lifting solution and simulation on site.
+3. Small bore pipe (pipe diameter <= 50) arrangement on site.
 
-### 主要项目经历
+### Project Experience
 
-**铝业烟气处理及气力输送系统投标**
-2019/03 - 至今
-通用电气(北京)电力技术有限公司 · 主任工程师 - 系统布置
+**THQ, Emal 123, San Cpian... Aluminum Gas & Fuel treatment project**
+2019/03 - Now
+General Electric (China) · Lead Layout & Piping Engineer
 
-1. 利用Tekla进行烟气处理装置区域及氧化铝输送系统布置设计，3D建模。
-2. 总体布置图，管道材料预估。
+1. Prepare 3D model and GA drawings for aluminum tendering project.
+2. Prepare piping BoQ for tendering project.
+3. Design review for execution project.
 
-**Emal 123 extension**
-2019/03 - 2021/08
-通用电气(北京)电力技术有限公司 · 主任工程师 - 系统布置及管道设计
-
-1. 烟气处理装置总体布置设计负责人.
-2. 设计进度计划及跟踪。
-3. 三维模型及图纸审核。
-
-**NID设计自动化及烟道参数化设计开发**
+**Aluminum Automation and NID Config to Delivery Project**
 2019/06 - 2020/06
-通用电气(北京)电力技术有限公司 .net开发工程师
+General Electric (China) . Sub project Leader
 
 1. 负责利用tekla open api 编写单个参数化模块。
 2. 负责PDMS/E3D 与烟道参数化的接口设计，其中包括PDMS/E3D二次开发。
@@ -77,7 +75,7 @@ layout: Resume
 
 **越南 Tanjung Jati 火电厂湿法脱硫**
 2017/06 - 2017/09
-通用电气(北京)电力技术有限公司 · 主任工程师 - 系统布置及管道设计
+General Electric (China) · Lead Layout & Piping Engineer
 
 1. 脱硫区域装置总体布置，设计计划编制。
 2. 脱硫区域管道布置及设计。
@@ -86,7 +84,7 @@ layout: Resume
 
 **越南 Vinh Tan 4 Extension 火电厂海水脱硫**
 2017/01 - 2017/08
-通用电气(北京)电力技术有限公司 · 主任工程师 - 系统布置及管道设计
+General Electric (China) · Lead Layout & Piping Engineer
 
 1. 脱硫区域装置及管道设计负责人。
 2. 负责设计出图计划及人力资源规划。
@@ -94,7 +92,7 @@ layout: Resume
 
 **泰国 Mae Moh 4# 600MW**
 2015/06 - 2016/07
-阿尔斯通(北京)工程技术有限公司 · 主任工程师 - 系统布置及管道设计
+Alstom (Beijing) · Lead Layout & Piping Engineer
 
 1. 负责闭式循环水系统管道的设计校核工作。
 2. 负责闭式循环水系统管道的设计任务安排，对外接口，文件提交等工作。
