@@ -8,26 +8,36 @@ layout: Resume
 * Date of birth: 1980-09
 * Language Ability:		Chinese (Native)
 				        English (Fluent)
-* Current serving in GE Power(Beijing)
+* Current serving in Qingdao Macdermott Wuchuan
 
 ### Summary of Experience
 
-* 13 years of experience, as Layout & Piping Engineer in the design of Aluminum GTC, FTC, Seawater FGD, Steam Power Plants. Familiar with Steam Power Plant piping design procedure. Have international project design experience.
+* 14 years of experience, as Layout & Piping Engineer in the design of Paper-machine, Aluminum GTC, FTC, Seawater FGD, Steam Power Plants. Familiar with Steam Power Plant piping design procedure. Have international project design experience.
 * Have project management experience as project leader and deputy project design manager.
 * Have the ability to Investigate working procedure and simplify. Standardized the pipe support secondary steel structure in Alstom Beijing office, and helped the developing of the design software PSHES.
 * Codes and Standards: ASME, GB
-* Software: PDMS, E3D, Tekla, AutoCAD, Microsoft Office, Navisworks, C#, Pml. 
-See some of my work via [https://lijuncq.github.io/works.htm](https://lijuncq.github.io/works.htm)
+* Software: PDMS, E3D, Tekla, AutoCAD, Microsoft Office, Navisworks, Unity.
+* Program language: C#, Pml, Python.
+See some of my work via [https://lijuncq.github.io/works.html](https://lijuncq.github.io/works.html)
 
 ### Position Desired
 
-* Design Manager, Expectation:320k, Work Time:Full Time, Work Place:Tsingtao, China, Available in 1 month.
+* Piping Design Manager/ Piping Design Engineer/Digital Delivery Engineer, Work Place:China, Available in 1 month.
 
 ### Employment History
 
+**Qingdao Macdermott Wuchuan Co., Ltd**
+
+2022/01 - now
+Senior Engineer - Pdms/E3D Administrtor
+
+1. Pdms/E3D catalogue and specification maintenance and addin development.
+2. Lifting and Constrcution simulation in Unlity.
+3. Python script for processing pdf, excel and autocad files.
+
 **General Electric (China) Co., Ltd**
 
-2015/11 - Now
+2015/11 - 2021/12
 Lead Engineer - System Engnieering
 
 1. Aluminum Core Team member as lead layout & piping engineer.
@@ -57,8 +67,24 @@ Erection Technical Leader / Mechanical Engineer
 
 ### Project Experience
 
+**Yellowtail Project ONE GUYANA FPSO**
+2022/01 - 现在
+Qingdao Macdermott Wuchuan Co., Ltd · Senior Engineer - Pdms/E3D Admin
+
+1. E3D catalogue and specification maintenance, addin development for MDS(pml)。
+2. Flareboom Lift Study simulation in Unity(c#)。
+3. Pdf file table detection and orc tool development(Python)。
+
+**xxx纸机工程**
+2022/06 - 现在
+Freelance · Piping Engineer
+
+1. Paper-machine steam system,condesation system, vacuum system piping and support design。
+2. E3D addin development and tech support。
+3. Construction schedule simulation animation(Unity)。
+
 **THQ, Emal 123, San Cpian... Aluminum Gas & Fuel treatment project**
-2019/03 - Now
+2019/03 - 2021/12
 General Electric (China) · Lead Layout & Piping Engineer
 
 1. Prepare 3D model and GA drawings for aluminum tendering project.
@@ -69,40 +95,39 @@ General Electric (China) · Lead Layout & Piping Engineer
 2019/06 - 2020/06
 General Electric (China) . Sub project Leader
 
-1. 负责利用tekla open api 编写单个参数化模块。
-2. 负责PDMS/E3D 与烟道参数化的接口设计，其中包括PDMS/E3D二次开发。
-3. 负责界面数据存储与载入设计。
+1. Develop parametric module using tekla open api(c#).
+2. Develop interface between PDMS/E3D and duct parametric design tool(c#, pml).
+3. UI data save and restore function development.
 
-**越南 Tanjung Jati 火电厂湿法脱硫**
+**Vietnam Tanjung Jati WFGD**
 2017/06 - 2017/09
 General Electric (China) · Lead Layout & Piping Engineer
 
-1. 脱硫区域装置总体布置，设计计划编制。
-2. 脱硫区域管道布置及设计。
-3. 三维模型建模及管理。
-4. 管道单线图及料表。
+1. FGD equipment and piping layout design lead.
+2. 3D model review.
+3. Piping iso drawing and mto.
 
-**越南 Vinh Tan 4 Extension 火电厂海水脱硫**
+**Vietnam Vinh Tan 4 Extension SWFGD**
 2017/01 - 2017/08
 General Electric (China) · Lead Layout & Piping Engineer
 
-1. 脱硫区域装置及管道设计负责人。
-2. 负责设计出图计划及人力资源规划。
-3. 三维模型及本专业图纸审核。
+1. FGD equipment and piping layout design lead.
+2. Drawing issue schedule and resource management.
+3. 3D model review.
 
-**泰国 Mae Moh 4# 600MW**
+**Thailand Mae Moh 4# 600MW**
 2015/06 - 2016/07
 Alstom (Beijing) · Lead Layout & Piping Engineer
 
-1. 负责闭式循环水系统管道的设计校核工作。
-2. 负责闭式循环水系统管道的设计任务安排，对外接口，文件提交等工作。
+1. Design lead for CCW system piping design。
+2. Design task assignment, interface management。
 
-**6 sigma 绿带项目&quot;管道支吊架设计流程简化及二次结构标准化&quot;**
+**6 sigma breen belt - Piping support procedure simplication and secondary steel standardization**
 2014/09 - 2015/12
-阿尔斯通(北京)工程技术有限公司 · 项目负责人
+Alstom (Beijing)  · Project Leader
 
-1. 项目管理。
-2. 对公司管道支吊架设计流程进行调查并优化.
+1. Project management, work assignment.
+2. Lead the investigation of current support design procedure.
 3. 制定公司内管道支吊架二次结构标准化图纸，并协助SeongHwa开发相应的设计软件PSHES。
 
 **马来西亚 TANJUNG BIN 1 x 1100 MW SC Coal Fired Power Plant(T4)**
