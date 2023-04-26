@@ -65,9 +65,9 @@ layout: Resume
 2022/01 - 现在
 青岛武船麦克德莫特海洋工程有限公司 · 高级工程师 - Pdms/E3D Admin
 
-1. E3D元件库等级库维护, MDS建模及出图二次开发。
-2. Flareboom Lift Study动画制作。
-3. Pdf文件表格提取及OCR识别工具开发。
+1. E3D元件库等级库维护, MDS建模及出图二次开发(pml, c#)。
+2. Flareboom Lift Study动画制作(c#)。
+3. Pdf文件表格提取及OCR识别工具开发(python)。
 
 **xxx纸机工程**
 2022/06 - 现在

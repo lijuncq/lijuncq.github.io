@@ -85,7 +85,7 @@ Freelance · Piping Engineer
 
 **THQ, Emal 123, San Cpian... Aluminum Gas & Fuel treatment project**
 2019/03 - 2021/12
-General Electric (China) · Lead Layout & Piping Engineer
+General Electric (China) Co., Ltd. · Lead Layout & Piping Engineer
 
 1. Prepare 3D model and GA drawings for aluminum tendering project.
 2. Prepare piping BoQ for tendering project.
@@ -93,7 +93,7 @@ General Electric (China) · Lead Layout & Piping Engineer
 
 **Aluminum Automation and NID Config to Delivery Project**
 2019/06 - 2020/06
-General Electric (China) . Sub project Leader
+General Electric (China) Co., Ltd. . Sub project Leader
 
 1. Develop parametric module using tekla open api(c#).
 2. Develop interface between PDMS/E3D and duct parametric design tool(c#, pml).
@@ -101,7 +101,7 @@ General Electric (China) . Sub project Leader
 
 **Vietnam Tanjung Jati WFGD**
 2017/06 - 2017/09
-General Electric (China) · Lead Layout & Piping Engineer
+General Electric (China) Co., Ltd. · Lead Layout & Piping Engineer
 
 1. FGD equipment and piping layout design lead.
 2. 3D model review.
@@ -109,7 +109,7 @@ General Electric (China) · Lead Layout & Piping Engineer
 
 **Vietnam Vinh Tan 4 Extension SWFGD**
 2017/01 - 2017/08
-General Electric (China) · Lead Layout & Piping Engineer
+General Electric (China) Co., Ltd. · Lead Layout & Piping Engineer
 
 1. FGD equipment and piping layout design lead.
 2. Drawing issue schedule and resource management.
@@ -117,14 +117,14 @@ General Electric (China) · Lead Layout & Piping Engineer
 
 **Thailand Mae Moh 4# 600MW**
 2015/06 - 2016/07
-Alstom (Beijing) · Lead Layout & Piping Engineer
+Alstom (Beijing) Engineering Technology Co., Ltd. · Lead Layout & Piping Engineer
 
 1. Design lead for CCW system piping design。
 2. Design task assignment, interface management。
 
 **6 sigma breen belt - Piping support procedure simplication and secondary steel standardization**
 2014/09 - 2015/12
-Alstom (Beijing)  · Project Leader
+Alstom (Beijing) Engineering Technology Co., Ltd.  · Project Leader
 
 1. Project management, work assignment.
 2. Lead the investigation of current support design procedure.
