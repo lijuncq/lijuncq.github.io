@@ -68,15 +68,15 @@ Erection Technical Leader / Mechanical Engineer
 ### Project Experience
 
 **Yellowtail Project ONE GUYANA FPSO**
-2022/01 - 现在
+2022/01 - now
 Qingdao Macdermott Wuchuan Co., Ltd · Senior Engineer - Pdms/E3D Admin
 
 1. E3D catalogue and specification maintenance, addin development for MDS(pml)。
 2. Flareboom Lift Study simulation in Unity(c#)。
 3. Pdf file table detection and orc tool development(Python)。
 
-**xxx纸机工程**
-2022/06 - 现在
+**xxx Paper-machine Project**
+2022/06 - now
 Freelance · Piping Engineer
 
 1. Paper-machine steam system,condesation system, vacuum system piping and support design。
@@ -103,17 +103,16 @@ General Electric (China) Co., Ltd. . Sub project Leader
 2017/06 - 2017/09
 General Electric (China) Co., Ltd. · Lead Layout & Piping Engineer
 
-1. FGD equipment and piping layout design lead.
-2. 3D model review.
-3. Piping iso drawing and mto.
+1. Layout design for Reagent area.
+2. Piping iso drawing and mto.
 
 **Vietnam Vinh Tan 4 Extension SWFGD**
 2017/01 - 2017/08
 General Electric (China) Co., Ltd. · Lead Layout & Piping Engineer
 
 1. FGD equipment and piping layout design lead.
-2. Drawing issue schedule and resource management.
-3. 3D model review.
+2. Layout & piping design schedule planning.
+3. Design progress & 3D review.
 
 **Thailand Mae Moh 4# 600MW**
 2015/06 - 2016/07
@@ -128,64 +127,59 @@ Alstom (Beijing) Engineering Technology Co., Ltd.  · Project Leader
 
 1. Project management, work assignment.
 2. Lead the investigation of current support design procedure.
-3. 制定公司内管道支吊架二次结构标准化图纸，并协助SeongHwa开发相应的设计软件PSHES。
+3. Standardized piping support 2nd steel frame，assist SeongHwa soft engineers to develop PSHES.
 
-**马来西亚 TANJUNG BIN 1 x 1100 MW SC Coal Fired Power Plant(T4)**
+**Malaysia TANJUNG BIN 1 x 1100 MW SC Coal Fired Power Plant(T4)**
 2013/03 - 2015/05
-阿尔斯通(北京)工程技术有限公司 · 主厂房区域设计负责人
+Alstom (Beijing) Engineering Technology Co., Ltd. · Senior Piping Engineer/ Deputy design manager
 
-1. 负责主厂房区域管道布置设计资源，进度，质量，接口协调管理。
-2. 负责在后期对现场管道及支吊架安装的设计支持。
+1. Coordination of Piping & Support design with Batch leaders.
+2. Review manpower requirements with design manager.
+3. Organize 3D model reviews.
+4. Interface management.
+5. Support(Technically) Piping & Support team.
 
-**马来西亚 Manjung 1 x 1100 MW SC Coal Fired Power Plant(T4)**
+**Malaysia Manjung 1 x 1100 MW SC Coal Fired Power Plant(T4)**
 2011/12 - 2013/03
-阿尔斯通(北京)工程技术有限公司 · 管道工程师
+Alstom (Beijing) Engineering Technology Co., Ltd. · Piping Engineer
 
-1. 主厂房合金钢管道的布置及详细设计工作。
-2. 主厂房合金钢管道支吊架设计工作。
+1. Piping detail design for IP/LP Piping in turbine hall。
 
-**广东阳西电厂**
-2007/07 - 2008/10
-广东火电工程总公司 · 安装技术室主任
+**Guangdong Yangxi/Hebei Sanhe Coal Fired Power Plant Project**
+2006/03 - 2008/10
+Guangdong Power Engineering Corporation · Erection Technical Leader
 
-1. 全厂大件设备运输及吊装方案。相应临时结构设计计算。 
-2. 现场管道设计管理。
-
-**河北三河电厂**
-2006/03 - 2007/07
-广东火电工程总公司 · 安装技术室主任
-
-1. 全厂大件设备运输及吊装方案。相应临时结构设计计算。相应方案于2007年获公司科技进步奖一等奖。
-2. 现场管道设计管理。
+1. Heavy equipment lifting solution and simulation on site. 
+2. Pdms design team management.
 
 **广东台山电厂**
 2003/09 - 2006/03
-广东火电工程总公司 · 机械工程师
+Guangdong Power Engineering Corporation · Mechanical Engineer
 
-1. 全厂大件设备运输及吊装方案。相应临时结构设计计算。
-2. 现场管道设计布置。
+1. Heavy equipment lifting solution and simulation on site.
+2. On site small bore piping layout design.
 
-### 教育经历
+### Education
 
-**武汉水利电力大学**
+**WUHAN UNIVERSITY OF HYDRAULIC AND ELECTRIC ENGINEERING**
 1999/09-2003/07
-本科, 机械设计及其自动化
+Bachelor in Mechanical Design and Automation
 
-### 培训经历
+### Traning
 
-**铝业烟气处理工艺流程**
+**Aluminum GTC, FTC Process Training**
 2018/11-2018/11
-GE挪威Oslo办公室
+General Electric (Norway) Oslo office
 
-培训描述：
-* 铝业烟气处理(GTC, FTC) 工艺流程, 主要设备等.
+Description：
+* Aluminum GTC, FTC Process, Equipments and layout.
   
 **PDMS Admin**
 2013/9-2013/9
-AVEVA 北京
+AVEVA Beijing
 
-培训描述：
-* PDMS 管理员培训
+Description：
+* PDMS Administration
 
 **SmartPlant P&ID**
 2010/10-2010/10
@@ -201,8 +195,3 @@ AVEVA 北京
 培训描述：
 * Comos为西门子旗下大型工程及工厂工程数据集中解决方案软件，主要应用于电力及石化行业。
 * 培训内容主要为P&ID工艺图绘制，管道元件库等级库建立，Comos管理模块，与PDMS接口等。
-
-### 语言能力
-
-**英语** 
-商务洽谈
