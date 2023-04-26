@@ -1,5 +1,5 @@
 ---
-layout: Resume_EN
+layout: ResumeEN
 ---
 
 ## Jun LI
