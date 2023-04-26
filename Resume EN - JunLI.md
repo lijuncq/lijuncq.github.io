@@ -184,7 +184,7 @@ Bachelor in Mechanical Design and Automation
 **Aluminum GTC, FTC Process Training**
 
 2018/11-2018/11
-General Electric (Norway) Oslo office
+Oslo office, General Electric (Norway)
 
 Description：
 * Aluminum GTC, FTC Process, Equipments and layout.
@@ -200,16 +200,15 @@ Description：
 **SmartPlant P&ID**
 
 2010/10-2010/10
-上海鹰图培训办公室
+Intergraph(Shanghai)
 
-培训描述：
-* SmartPlant P&ID 项目建立，数据库设置，绘图，图纸管理，材料报表等。
+Description：
+* SmartPlant P&ID Project creation,Database management...
 
 **Comos PT**
 
 2009/10-2009/12
-瑞士巴登培训办公室
+Basel, Switzerland
 
-培训描述：
-* Comos为西门子旗下大型工程及工厂工程数据集中解决方案软件，主要应用于电力及石化行业。
-* 培训内容主要为P&ID工艺图绘制，管道元件库等级库建立，Comos管理模块，与PDMS接口等。
+Description：
+* P&ID sketch, Piping catalogue and specification creation。
