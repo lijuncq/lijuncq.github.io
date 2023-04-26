@@ -68,6 +68,7 @@ Erection Technical Leader / Mechanical Engineer
 ### Project Experience
 
 **Yellowtail Project ONE GUYANA FPSO**
+
 2022/01 - now
 Qingdao Macdermott Wuchuan Co., Ltd · Senior Engineer - Pdms/E3D Admin
 
@@ -76,6 +77,7 @@ Qingdao Macdermott Wuchuan Co., Ltd · Senior Engineer - Pdms/E3D Admin
 3. Pdf file table detection and orc tool development(Python)。
 
 **xxx Paper-machine Project**
+
 2022/06 - now
 Freelance · Piping Engineer
 
@@ -84,6 +86,7 @@ Freelance · Piping Engineer
 3. Construction schedule simulation animation(Unity)。
 
 **THQ, Emal 123, San Cpian... Aluminum Gas & Fuel treatment project**
+
 2019/03 - 2021/12
 General Electric (China) Co., Ltd. · Lead Layout & Piping Engineer
 
@@ -92,6 +95,7 @@ General Electric (China) Co., Ltd. · Lead Layout & Piping Engineer
 3. Design review for execution project.
 
 **Aluminum Automation and NID Config to Delivery Project**
+
 2019/06 - 2020/06
 General Electric (China) Co., Ltd. . Sub project Leader
 
@@ -100,6 +104,7 @@ General Electric (China) Co., Ltd. . Sub project Leader
 3. UI data save and restore function development.
 
 **Vietnam Tanjung Jati WFGD**
+
 2017/06 - 2017/09
 General Electric (China) Co., Ltd. · Lead Layout & Piping Engineer
 
@@ -107,6 +112,7 @@ General Electric (China) Co., Ltd. · Lead Layout & Piping Engineer
 2. Piping iso drawing and mto.
 
 **Vietnam Vinh Tan 4 Extension SWFGD**
+
 2017/01 - 2017/08
 General Electric (China) Co., Ltd. · Lead Layout & Piping Engineer
 
@@ -115,6 +121,7 @@ General Electric (China) Co., Ltd. · Lead Layout & Piping Engineer
 3. Design progress & 3D review.
 
 **Thailand Mae Moh 4# 600MW**
+
 2015/06 - 2016/07
 Alstom (Beijing) Engineering Technology Co., Ltd. · Lead Layout & Piping Engineer
 
@@ -122,6 +129,7 @@ Alstom (Beijing) Engineering Technology Co., Ltd. · Lead Layout & Piping Engine
 2. Design task assignment, interface management。
 
 **6 sigma breen belt - Piping support procedure simplication and secondary steel standardization**
+
 2014/09 - 2015/12
 Alstom (Beijing) Engineering Technology Co., Ltd.  · Project Leader
 
@@ -130,6 +138,7 @@ Alstom (Beijing) Engineering Technology Co., Ltd.  · Project Leader
 3. Standardized piping support 2nd steel frame，assist SeongHwa soft engineers to develop PSHES.
 
 **Malaysia TANJUNG BIN 1 x 1100 MW SC Coal Fired Power Plant(T4)**
+
 2013/03 - 2015/05
 Alstom (Beijing) Engineering Technology Co., Ltd. · Senior Piping Engineer/ Deputy design manager
 
@@ -140,19 +149,23 @@ Alstom (Beijing) Engineering Technology Co., Ltd. · Senior Piping Engineer/ Dep
 5. Support(Technically) Piping & Support team.
 
 **Malaysia Manjung 1 x 1100 MW SC Coal Fired Power Plant(T4)**
+
+
 2011/12 - 2013/03
 Alstom (Beijing) Engineering Technology Co., Ltd. · Piping Engineer
 
 1. Piping detail design for IP/LP Piping in turbine hall。
 
 **Guangdong Yangxi/Hebei Sanhe Coal Fired Power Plant Project**
+
 2006/03 - 2008/10
 Guangdong Power Engineering Corporation · Erection Technical Leader
 
 1. Heavy equipment lifting solution and simulation on site. 
 2. Pdms design team management.
 
-**广东台山电厂**
+**Guangdong Taisan Coal Fired Power Plant Project**
+
 2003/09 - 2006/03
 Guangdong Power Engineering Corporation · Mechanical Engineer
 
@@ -162,12 +175,14 @@ Guangdong Power Engineering Corporation · Mechanical Engineer
 ### Education
 
 **WUHAN UNIVERSITY OF HYDRAULIC AND ELECTRIC ENGINEERING**
+
 1999/09-2003/07
 Bachelor in Mechanical Design and Automation
 
 ### Traning
 
 **Aluminum GTC, FTC Process Training**
+
 2018/11-2018/11
 General Electric (Norway) Oslo office
 
@@ -175,6 +190,7 @@ Description：
 * Aluminum GTC, FTC Process, Equipments and layout.
   
 **PDMS Admin**
+
 2013/9-2013/9
 AVEVA Beijing
 
@@ -182,6 +198,7 @@ Description：
 * PDMS Administration
 
 **SmartPlant P&ID**
+
 2010/10-2010/10
 上海鹰图培训办公室
 
@@ -189,6 +206,7 @@ Description：
 * SmartPlant P&ID 项目建立，数据库设置，绘图，图纸管理，材料报表等。
 
 **Comos PT**
+
 2009/10-2009/12
 瑞士巴登培训办公室
 
