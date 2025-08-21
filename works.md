@@ -8,7 +8,7 @@ layout: works
     <h4>1. Pipe rack section drawing tool (pml pmlnet c#)</h4>
     <a>This addin use both pml and c#, Create rack section drawings automatically.</a>
     <div class="image">
-        <video width="800" height="600" autoplay muted>
+        <video width="800" height="600" controls muted>
         <source src="/media/E3D_RackSectionDrawingTool.mp4" type="video/mp4">
         </video>
     </div>
@@ -44,12 +44,12 @@ layout: works
     <br>
     <h4>Flarboom Lift Study</h4>
     <div class="image">
-        <video width="800" height="600" autoplay muted>
+        <video width="800" height="600" controls muted>
         <source src="/media/UnityLiftingSimulation.mp4" type="video/mp4">
         </video>
     </div>
     <div class="image">
-        <video width="800" height="600" autoplay muted>
+        <video width="800" height="600" controls muted>
         <source src="/media/UnityLiftingSimulation2.mp4" type="video/mp4">
         </video>
     </div>
@@ -64,7 +64,7 @@ layout: works
     <h4>2. Navisworks Export Pipes to E3D (c#)</h4>
     <a>This addin can export pipe lines to E3D </a>
     <div class="image">
-        <video width="800" height="600" autoplay muted>
+        <video width="800" height="600" controls muted>
         <source src="/media/PipeFromNavis2E3D.mp4" type="video/mp4">
         </video>
     </div>
