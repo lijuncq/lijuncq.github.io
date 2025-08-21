@@ -8,10 +8,11 @@ layout: ResumeEN
 * Date of birth: 1980-09
 * Language Ability:		Chinese (Native)
 				        English (Fluent)
-* Current serving in Qingdao Macdermott Wuchuan
+* Current serving in WACKER Chemicals(Zhangjiagang)
 
 ### Summary of Experience
 
+* 4 years of experience, as PDMS/E3D administrator, 20 years of experience as PDMS/E3D user and developer.
 * 14 years of experience, as Layout & Piping Engineer in the design of Paper-machine, Aluminum GTC, FTC, Seawater FGD, Steam Power Plants. Familiar with Steam Power Plant piping design procedure. Have international project design experience.
 * Have project management experience as project leader and deputy project design manager.
 * Have the ability to Investigate working procedure and simplify. Standardized the pipe support secondary steel structure in Alstom Beijing office, and helped the developing of the design software PSHES.
@@ -22,13 +23,22 @@ See some of my work via [https://lijuncq.github.io/works.html](https://lijuncq.g
 
 ### Position Desired
 
-* Piping Design Manager/ Piping Design Engineer/Digital Delivery Engineer, Work Place:China, Available in 1 month.
+* PDMS/E3D Administrator and Developer/Digital Delivery Engineer, Work Place:China, Available in 5 weeks.
 
 ### Employment History
 
+**WACKER Chemicals(Zhangjiagang) Co., Ltd**
+
+2024/08 - now
+Senior Engineer - Pdms/E3D Administrtor
+
+1. Pdms/E3D catalogue and specification maintenance and addin development.
+2. Navisworks plugin development and training.
+3. Prepare and issue E3D related procedure documents.
+
 **Qingdao Macdermott Wuchuan Co., Ltd**
 
-2022/01 - now
+2022/01 - 2024/08
 Senior Engineer - Pdms/E3D Administrtor
 
 1. Pdms/E3D catalogue and specification maintenance and addin development.
