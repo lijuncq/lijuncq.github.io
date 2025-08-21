@@ -37,7 +37,10 @@ layout: works
 <details>
     <summary>Navisworks customization 二次开发 (c#)</summary>
     <br>
-    <h4>a plugin to load a list contains transforms / load files from a directory and keep the directory structure in nwd file</h4>
+    <h4>1. Engineering design review (c#)</h4>
+    <a>This addin can export comments to excel and import back </a>
+    <div class="image"><img src="/media/NavisCommentsPlugin.gif" alt=""></div>
+    <h4>2. a plugin to load a list contains transforms / load files from a directory and keep the directory structure in nwd file</h4>
     <div class="image"><img src="/media/navis-jtools.png" alt=""></div>
     <div class="image"><img src="/media/navis-jtools-code.png" alt=""></div>
 </details>
