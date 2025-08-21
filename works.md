@@ -48,6 +48,11 @@ layout: works
         <source src="/media/UnityLiftingSimulation.mp4" type="video/mp4">
         </video>
     </div>
+    <div class="image">
+        <video width="800" height="600" autoplay muted>
+        <source src="/media/UnityLiftingSimulation2.mp4" type="video/mp4">
+        </video>
+    </div>
 </details>
 
 <details>
