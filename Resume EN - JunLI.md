@@ -27,9 +27,18 @@ See some of my work via [https://lijuncq.github.io/works.html](https://lijuncq.g
 
 ### Employment History
 
+**Shanghai Jutal Offshore Engineering Co., Ltd**
+
+2026/02 - now
+Senior Engineer - 3D Administrtor
+
+1. E3D catalogue and specification maintenance and addin development.
+2. Prepare and issue E3D related procedure documents.
+3. GLobal Hub maintenance.
+
 **WACKER Chemicals(Zhangjiagang) Co., Ltd**
 
-2024/08 - now
+2024/08 - 2026/01
 Senior Engineer - Pdms/E3D Administrtor
 
 1. Pdms/E3D catalogue and specification maintenance and addin development.
