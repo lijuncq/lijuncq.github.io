@@ -1,97 +1,225 @@
 ---
-layout: default
+layout: Resume
 ---
 
-<div class="card bg-light">
+## 李俊
 
-  <div class="card-body">
-    <div class="row align-items-center">
-      <div class="col-sm-4">
-        <div class="image mx-auto"><img src="/media/profile.png" alt=""></div>
-      </div>
-      <div class="col-sm-6">
-        <div class="designation">
-            <div class="typing-title">
-                <p>
-                  <div>你好, 我是 李俊</div>
-                  <div>Hi, I'm Jun LI</div>
-                </p>
-                <p>
-                  <div>一个 <strong>高级布置及管道工程师</strong></div>
-                  <div>a <strong>senior piping & layout engineer</strong></div>
-                </p>
-                <p>
-                  <div>一个 <strong>工程软件二次开发者</strong></div>
-                  <div>an <strong>engineering software customization programmer</strong></div>
-                </p>
-                <p>
-                  <div>一个 <strong>PDMS/E3D 资深用户</strong></div>
-                  <div>a <strong>PDMS/E3D key user</strong></div>
-                </p>
-            </div>
-            <span class="typed-title"></span>
-        </div>
-      </div>
-    </div>
-  </div>
-</div>
+* 出生于1980-09，工作22年，张家港在职，1个月+1星期到岗
+* 18600363243 [lijuncq@live.com](mailto:lijuncq@live.com)
 
-<br>
-<br>
+### 优势亮点
 
-### 技能 Skills
+* 4年E3D管理员经验，近20年PDMS/E3D使用经验。
+* 14年电厂,脱硫,铝业烟气处理,造纸等工业装置及管道设计经验，熟悉国标，ASME，EN标准。
+* 有设计管理经验，熟悉设计管理流程。
+* 英语听说读写均能胜任日常工作交流。
+* IT知识丰富，熟悉c#， python语言。精通PDMS/E3D及其二次开发(pml, c#), 熟练掌握Tekla, Navisworks及其二次开发,熟悉Unity开发.
+作品见[https://lijuncq.github.io/works.html](https://lijuncq.github.io/works.html)
 
-<p></p>
-<div class="container progresscontainer">
-  <div class="skills progress90">管道设计 Piping Design</div>
-</div>
+### 期望职位
 
-<p></p>
-<div class="container progresscontainer">
-  <div class="skills progress90">PDMS/E3D/PML</div>
-</div>
- 
- <p></p>
-<div class="container progresscontainer">
-  <div class="skills progress80">Navisworks</div>
-</div>
- 
- <p></p>
-<div class="container progresscontainer">
-  <div class="skills progress60">项目管理 Project Management</div>
-</div>
+PDMS/E3D数据库维护及二次开发/数字化交付⼯程师, 地点不限
 
-<p></p>
-<div class="container progresscontainer">
-  <div class="skills progress60">C#</div>
-</div>
- 
-<p></p>
-<div class="container progresscontainer">
-  <div class="skills progress50">Python</div>
-</div>
+### 工作经历
 
-<p></p>
-<div class="container progresscontainer">
-  <div class="skills progress40">Html/JavaScript/SQL</div>
-</div>
+**上海巨涛海洋工程有限公司**
 
-### 工作经验 Work Experience
+2026/02 - 至今
+3D管理员 · 高级工程师
 
-*   5年烟气处理系统布置及管道设计经验(包括电厂脱硫脱硝装置, 铝业烟气处理装置)
-*   5 years of piping & layout design expirence for gas treatment system(power station FGD, SCR and aluminium industry GTC, FTC)
+1. E3D管理员, 数据库维护,技术支持及二次开发。
+2. 起草和发布E3D相关程序文件。
+3. 规划及创建项目数据库。
+4. Global HUB管理及维护。
+   
+**瓦克化学(张家港)有限公司**
 
-*   8年电厂布置及管道设计经验
-*   8 years of piping & layout design expirence for power station
+2024/08 - 2026/01
+工程软件维护 · 高级工程师
 
-*   5年电厂现场大件吊装方案设计经验
-*   5 years of heavy equipment lifting expirence for power station
+1. E3D管理员, 数据库维护,技术支持及二次开发。
+2. Navisworks培训及二次开发。
+3. 起草和发布E3D相关程序文件。
 
-*   2个项目管理经验
-*   2 projects management experience
+**青岛武船麦克德莫特海洋工程有限公司**
 
-*   熟悉ASME, EN标准
-*   Familar with ASME code and EN code
+2022/01 - 2024/08
+工程软件维护 · 高级工程师
 
-*   精通PDMS/E3D, Tekla, Navisworks, AutoCAD等工程软件及二次开发
-*   Skilled in PDMS/E3D, Tekla, Navisworks and AutoCAD, including customization programming
+1. Pdms/E3D管理员, 数据库维护及二次开发。
+2. Unity开发, 施工模拟动画制作。
+3. Python开发, cad图纸, pdf文件及excel文件处理小工具。
+
+**通用电气(北京)电力技术有限公司**
+
+2015/11 - 2021/12
+管道与布局 · 高级系统布置工程师
+
+1. 脱硫脱硝区域及铝业GTC,FTC设备装置及管道布置，初设及详设。
+2. 电厂主厂房各系统管道布置及详细设计。
+3. 模型及图纸审查。
+4. 相应工程软件(PDMS, Tekla, Navisworks)技术支持,参数化设计及二次开发(C#, pml, python)。
+
+**阿尔斯通(北京)工程技术有限公司**
+
+2008/11 - 2015/11
+管道设计及布置 · 高级管道工程师
+
+1. 负责电厂主厂房各系统管道布置及详细设计。
+2. 管道及支吊架模型，图纸审查。
+3. 项目管理。
+4. 负责PDMS软件技术支持。
+5. 管道支吊架设计流程优化。
+
+**广东火电工程总公司**
+
+2003/08 - 2008/10
+安装技术室主任/机械工程师
+
+1. 现场PDMS设计团队管理。
+2. 电厂大件设备运输及吊装方案编写与模拟。
+
+### 主要项目经历
+
+**Yellowtail Project ONE GUYANA FPSO**
+
+2022/01 - 现在
+青岛武船麦克德莫特海洋工程有限公司 · 高级工程师 - Pdms/E3D Admin
+
+1. E3D元件库等级库维护, MDS建模及出图二次开发(pml, c#)。
+2. Flareboom Lift Study动画制作(c#)。
+3. Pdf文件表格提取及OCR识别工具开发(python)。
+
+**铝业烟气处理及气力输送系统投标**
+
+2019/03 - 2021/12
+通用电气(北京)电力技术有限公司 · 主任工程师 - 系统布置
+
+1. 利用Tekla进行烟气处理装置区域及氧化铝输送系统布置设计，3D建模。
+2. 总体布置图，管道材料预估。
+
+**Emal 123 extension**
+
+2019/03 - 2021/08
+通用电气(北京)电力技术有限公司 · 主任工程师 - 系统布置及管道设计
+
+1. 烟气处理装置总体布置设计负责人.
+2. 设计进度计划及跟踪。
+3. 三维模型及图纸审核。
+
+**NID设计自动化及烟道参数化设计开发**
+
+2019/06 - 2020/06
+通用电气(北京)电力技术有限公司 .net开发
+
+1. 负责利用tekla open api 编写单个参数化模块。
+2. 负责PDMS/E3D 与烟道参数化的接口设计，其中包括PDMS/E3D二次开发。
+3. 负责界面数据存储与载入设计。
+
+**越南 Tanjung Jati 火电厂湿法脱硫**
+
+2017/06 - 2017/09
+通用电气(北京)电力技术有限公司 · 管道工程师 - 系统布置及管道设计
+
+1. 脱硫区域管道布置及设计。
+2. 管道单线图及料表。
+
+**越南 Vinh Tan 4 Extension 火电厂海水脱硫**
+
+2017/01 - 2017/08
+通用电气(北京)电力技术有限公司 · 主任工程师 - 系统布置及管道设计
+
+1. 脱硫区域装置及管道设计负责人。
+2. 负责设计出图计划及人力资源规划。
+3. 三维模型及本专业图纸审核。
+
+**泰国 Mae Moh 4# 600MW**
+
+2015/06 - 2016/07
+阿尔斯通(北京)工程技术有限公司 · 主任工程师 - 系统布置及管道设计
+
+1. 负责闭式循环水系统管道的设计校核工作。
+2. 负责闭式循环水系统管道的设计任务安排，对外接口，文件提交等工作。
+
+**6 sigma 绿带项目&quot;管道支吊架设计流程简化及二次结构标准化&quot;**
+
+2014/09 - 2015/12
+阿尔斯通(北京)工程技术有限公司 · 项目负责人
+
+1. 项目管理。
+2. 对公司管道支吊架设计流程进行调查并优化.
+3. 制定公司内管道支吊架二次结构标准化图纸，并协助SeongHwa开发相应的设计软件PSHES。
+
+**马来西亚 TANJUNG BIN 1 x 1100 MW SC Coal Fired Power Plant(T4)**
+
+2013/03 - 2015/05
+阿尔斯通(北京)工程技术有限公司 · 主厂房区域设计负责人
+
+1. 负责主厂房区域管道布置设计资源，进度，质量，接口协调管理。
+2. 负责在后期对现场管道及支吊架安装的设计支持。
+
+**马来西亚 Manjung 1 x 1100 MW SC Coal Fired Power Plant(T4)**
+
+2011/12 - 2013/03
+阿尔斯通(北京)工程技术有限公司 · 管道工程师
+
+1. 主厂房合金钢管道的布置及详细设计工作。
+2. 主厂房合金钢管道支吊架设计工作。
+
+**广东阳西/河北三河电厂**
+
+2006/03 - 2008/10
+广东火电工程总公司 · 安装技术室主任
+
+1. 全厂大件设备运输及吊装方案。相应临时结构设计计算。 
+2. 现场管道设计管理。
+
+**广东台山电厂**
+
+2003/09 - 2006/03
+广东火电工程总公司 · 机械工程师
+
+1. 全厂大件设备运输及吊装方案。相应临时结构设计计算。
+2. 现场管道设计布置。
+
+### 教育经历
+
+**武汉水利电力大学**
+
+1999/09-2003/07
+本科, 机械设计及其自动化
+
+### 培训经历
+
+**铝业烟气处理工艺流程**
+
+2018/11-2018/11
+GE挪威Oslo办公室
+
+培训描述：
+* 铝业烟气处理(GTC, FTC) 工艺流程, 主要设备等.
+  
+**PDMS Admin**
+
+2013/9-2013/9
+AVEVA 北京
+
+培训描述：
+* PDMS 管理员培训
+
+**SmartPlant P&ID**
+
+2010/10-2010/10
+上海鹰图培训办公室
+
+培训描述：
+* SmartPlant P&ID 项目建立，数据库设置，绘图，图纸管理，材料报表等。
+
+**Comos PT**
+
+2009/10-2009/12
+瑞士巴登培训办公室
+
+培训描述：
+* Comos为西门子旗下大型工程及工厂工程数据集中解决方案软件，主要应用于电力及石化行业。
+* 培训内容主要为P&ID工艺图绘制，管道元件库等级库建立，Comos管理模块，与PDMS接口等。
